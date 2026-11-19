@@ -1,0 +1,11 @@
+---
+title: "Category: Culture"
+description: "Essays on science, culture, music production, human–AI collaboration, and society by Marcelo Maciel Amaral."
+listing:
+  contents: "../../20[0-9][0-9]/*/*/*/index.qmd"
+  sort: "date desc"
+  type: default
+  include:
+    categories: "Culture"
+  fields: [image, date, title, description, categories, reading-time]
+---

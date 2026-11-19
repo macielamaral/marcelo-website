@@ -1,0 +1,10 @@
+---
+title: Code!
+author: Marcelo Maciel Amaral
+date: '2023-09-23'
+categories:
+- Code
+description: Inaugural note on code-theoretic reality and open-source scientific repositories on GitHub.
+---
+
+Reality is Code Theoretic. Some code on [GitHub](https://github.com/macielamaral).

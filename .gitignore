@@ -218,3 +218,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Quarto build and cache
+/_site/
+/.quarto/
+*_files/
+
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.yml
+.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Local private working directory (never publish)
+/private/
+private/
+
+**/*.quarto_ipynb

@@ -1,0 +1,73 @@
+---
+title: 'Planck Scale Pioneers: Article Series'
+author: Marcelo Maciel Amaral
+date: '2024-08-22'
+categories:
+- Code
+- Open-Sourcing
+- Science
+description: Roadmap and motivation for the 54-part Planck Scale Pioneers series tracing historical and conceptual milestones toward quantum gravity and open-sourcing the code of reality.
+---
+
+I’ll be sharing a series of articles highlighting key milestones in our quest to understand reality at the profound Planck scale level. It is called Planck Scale Pioneers: Article Series. Recently, I revisited some of my writings from around 20 years ago and was struck by the importance of direct communication — hearing stories straight from those at the forefront of certain discoveries. This series is inspired by that spirit, aiming to review some key milestones and explore why the idea of a deeper Planck scale makes sense to me.
+
+This journey will follow a roughly chronological order, though I may occasionally change or skip topics as needed. Below is the initial list of topics. I welcome your suggestions for additions, removals, or replacements. Note that the last three entries are fixed and will remain in their current positions.
+
+I’m excited to embark on this exploration with you all. Your insights and feedback will be invaluable as we delve into these fascinating concepts. Stay tuned for the first article soon!
+
+## Planck Scale Pioneers: Article Series Title List:
+
+1. Max Planck, Planck Units, and the Quantum Revolution
+2. Henri Poincaré and the Quantum Discontinuity: The Concept of Fundamental Time
+3. Einstein’s Quest for Unification: Relativity Meets Quantum Mechanics
+4. Dimensional Analysis and the Quest for Fundamental Scales
+5. Kaluza-Klein Theory: Early Attempts to Unify Gravity and Electromagnetism
+6. Weyl’s Gauge Symmetry: The Foundation of Modern Field Theory
+7. The Birth of Quantum Field Theory
+8. Arthur March’s Modified Geometry in Quantum Field Theory
+9. Heisenberg’s Advocacy for Fundamental Lengths
+10. Dirac’s 1930s Insights: Revisiting Faster-Than-Light Signals, Electron Structure, and Magnetic Monopoles
+11. Hartland Snyder’s Non-Commutative Space-Time
+12. Dirac’s 1951 Proposal on Lorentz Symmetry Violation
+13. Einstein and Bergmann’s Revival: The Fifth Dimension and Kaluza-Klein Theory
+14. Quantum Entanglement and the EPR Paradox
+15. The Detection of the Cosmic Microwave Background (CMB)
+16. Sakharov’s Induced Gravity: Vacuum Fluctuations and the Planck Scale
+17. The Standard Model: Unifying Particle Physics
+18. Color Charge Confinement: Gribov Horizons and QCD Dynamics
+19. String Theory: Quantum of Gravitational Field
+20. Loop Quantum Gravity: Quantum of Geometry
+21. Grand Unification Theories: The Quest for a Unified Force
+22. Black Hole Thermodynamics: Hawking Radiation, Information Paradox, and Beyond
+23. The Casimir Effect: Quantum Forces in a Vacuum
+24. Quantum Foam: Wheeler’s Concept of Space-Time at the Planck Scale
+25. Faddeev Popov Quantization: Are Ghosts Real?
+26. The Space-Time Code Idea
+27. Neutrino Oscillations: Evidence for Physics Beyond the Standard Model
+28. Noncommutative Geometry: Extending Geometry to the Planck Scale
+29. The Holographic Principle: Encoding Information at the Planck Scale
+30. Beyond Lie Algebra: Quantum Groups
+31. Asymptotic Safety in Quantum Gravity
+32. The Muon g-2 Experiment: Searching for New Physics
+33. Emergent Gravity: Gravity as an Emergent Phenomenon
+34. Preon Models: Sub-Quark Constituents of Matter
+35. Dirac’s Large Numbers Hypothesis: Cosmic Coincidences and the Planck Scale
+36. Doubly Special Relativity: Modifying Space-Time at High Energies
+37. Jordan’s Conformal Field Theory
+38. Lattice Gauge Theory: First Principles Hadron Masses Computation
+39. Gravitational Waves: A New Window into the Universe
+40. The Koide Formula: A Curious Relationship Between Lepton Masses
+41. Minimal Length in Quantum Gravity: Limits on Spacetime
+42. The Amplitudehedron: A New Way to Think About Particle Interactions
+43. Emergence Theory: Complex Systems and the Planck Scale
+44. Penrose’s Conformal Cyclic Cosmology: A Universe with Infinite Cycles
+45. Wolfram Physics: Reconstructing the Universe with Computation
+46. Quantum Gravity Phenomenology: Testing Theories at High Energies
+47. Quantum Holography: Storing Information in Quantum Systems
+48. Quantized Inertia: An Approach to Inertia and Gravity
+49. Planck Stars: Black Holes and Quantum Gravity
+50. Quantum Zeno Effect: Freezing Quantum States
+51. Axions to Dark Phonons: Dark Matter Candidates
+52. Quasicrystals at Deeper Scales: Quasicrystalline Spin Networks/Foams
+53. Hadron Masses from Planck Scale Tiling Spaces
+54. Quasicrystals at Large Scale: Relaxing Cosmological Tensions

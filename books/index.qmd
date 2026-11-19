@@ -1,0 +1,15 @@
+---
+title: "Books"
+description: "Books by Marcelo Maciel Amaral — Open-Sourcing Reality Codes Series."
+---
+
+## Open-Sourcing Reality Codes Series
+
+### Volume 1: *Parenting with Purpose: Weaving Practical Wisdom with Personal Reflections*
+
+![Cover artwork for Parenting with Purpose](../assets/images/creator/parenting-with-purpose.png){width="360px" fig-alt="Cover illustration for Parenting with Purpose: Weaving Practical Wisdom with Personal Reflections"}
+
+- **English Edition:** *Parenting with Purpose: Weaving Practical Wisdom with Personal Reflections* — [Request a copy via Contact](../contact/index.qmd).
+- **Portuguese Edition:** [*Parentalidade com Propósito: Tecendo Sabedoria Prática com Reflexões Pessoais (Abrindo os códigos fontes da realidade)*](https://www.amazon.com.br/Parentalidade-com-Prop%C3%B3sito-Sabedoria-Reflex%C3%B5es-ebook/dp/B0CZH6SJWH/) — available on Amazon.
+
+Related essay: [Universal Family Benefit (UFB): The Foundations of our Future](../2023/09/29/universal-love-based-child-care-universal-family-benefit-ufb-foundations-of-our-future/index.qmd).

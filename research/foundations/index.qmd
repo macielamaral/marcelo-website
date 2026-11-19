@@ -1,0 +1,23 @@
+---
+title: "Foundations of Physics & Open Science"
+description: "Code-theoretic interpretations of quantum mechanics, relational gauge symmetry, the self-simulation hypothesis, and philosophical foundations of open science."
+bibliography: ../../publications/references.bib
+---
+
+## Scientific Question & Motivation
+
+Foundational questions in quantum mechanics and general relativity—what constitutes an observable in a gauge-invariant universe, how quantum measurement selects definite histories, and why concise mathematical structures describe physical reality so effectively—shape how we formulate concrete theories of quantum gravity.
+
+## Core Themes
+
+- **Relational Gauge Symmetry:** Examining gauge redundancy not merely as a mathematical artifact to be fixed, but as an expression of how physical subsystems couple to one another relationally [@amaral2014relational; @amaral2018time].
+- **Code-Theoretic Approaches to Reality:** Exploring the correspondence between formal languages, syntactic constraints, and action principles—where physical state spaces act as languages, trajectories in path integrals act as code pathways, and emergent macroscopic laws act as coherent programs [@irwin2020selfsim; @amaral2021wolfram].
+- **Open Science vs. Open Access:** Analyzing licensing trends across >200,000 `hep-th` and `gr-qc` preprints on arXiv to advocate for genuinely reusable open-source scientific publishing paired with executable notebooks and verifiable code [@amaral2025deus].
+
+## Related Essays & Computational Notebooks
+
+- [Code and Open Source Beyond Computers: Planck Scale Pioneers](../../2024/01/06/code-and-open-source-beyond-computers-planck-scale-pioneers/index.qmd)
+- [Open Source vs. Open Access: The Evolving Landscape of Scientific Research Licenses on arXiv](../../2023/10/13/open-source-vs-open-access-the-evolving-landscape-of-scientific-research-licenses-on-arxiv/index.qmd) · [Jupyter Notebook](https://github.com/macielamaral/computational_essays/blob/main/Tutorial_Arxiv_Data_Analisys_Physics_Licensing.ipynb)
+- [The Quantum Legacy of Paul Dirac: Spin, Antimatter, and the Evolution of the Scientific Method](../../2023/10/07/the-quantum-legacy-of-paul-dirac-spin-antimatter-and-the-evolution-of-the-scientific-method/index.qmd)
+
+## References

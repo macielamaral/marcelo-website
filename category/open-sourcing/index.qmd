@@ -1,0 +1,11 @@
+---
+title: "Category: Open-Sourcing"
+description: "Essays on open-sourcing the code of reality, scientific licensing on arXiv, and Planck Scale Pioneers by Marcelo Maciel Amaral."
+listing:
+  contents: "../../20[0-9][0-9]/*/*/*/index.qmd"
+  sort: "date desc"
+  type: default
+  include:
+    categories: "Open-Sourcing"
+  fields: [image, date, title, description, categories, reading-time]
+---

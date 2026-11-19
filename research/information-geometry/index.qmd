@@ -1,0 +1,25 @@
+---
+title: "Information Geometry, Algebraic Surfaces & Biological Codes"
+description: "Information geometry, statistical manifolds, nonlinear sigma models, SL(2,C) character varieties, and algebraic models of biological codes."
+bibliography: ../../publications/references.bib
+---
+
+## Scientific Question & Motivation
+
+Across quantum computation, low-dimensional topology, and molecular biology, discrete symbolic sequences are governed by non-commutative symmetry groups and geometric moduli spaces. Together with collaborators including Michel Planat, Raymond Aschheim, Fang Fang, David Chester, and Klee Irwin, this line of research investigates the algebraic geometry of $\mathrm{SL}(2,\mathbb{C})$ character varieties and finite Pauli/Clifford group representations across both quantum information and biological coding systems.
+
+## Primary Themes
+
+1. **Character Varieties, Three-Manifolds & Algebraic Surfaces:** Studying $\mathrm{SL}(2,\mathbb{C})$ representations of finitely presented groups $\pi_1(M)$ associated with 3-manifolds, links, Seifert surfaces, and punctured spheres—where trace invariants cut out Cayley cubics, Fricke surfaces, and 16-nodal Kummer surfaces [@planat2019seifert; @planat2021kummer; @planat2022character; @planat2022fricke].
+2. **Algebraic & Quantum-Information Structure of Genetic Codes:** Investigating how finite group representations, informationally complete generalized measurements (IC-POVMs), and free-group character varieties classify degeneracies in the DNA genetic code, protein secondary-structure codes, and DNA–RNA transcription factor binding motifs [@planat2020dna; @planat2021kummer; @planat2023dna; @planat2023mrna].
+3. **Graph Coverings & Meta-Coding:** Using subgroup lattices and graph coverings to probe non-local correlations in symbolic sequences [@planat2021graph], motivating broader philosophical and mathematical questions on [Meta-Coding Theory](../../2023/10/24/meta-coding-theory-on-the-unification-of-information-systems/index.qmd).
+
+## Gauge Freedom Field Notes
+
+**Nonlinear Sigma Models on Statistical Manifolds: Equations of Motion** [@amaral2025sigma] derives classical field equations using a Fisher–Rao metric on the statistical base manifold, with examples from standard probability families.
+
+The interdisciplinary pilot study **Seed-Window Algebraic Instability in Dementia-Associated miRNAs** [@amaral2026mirna] explores algebraic transitions across overlapping sequence windows. It does not establish diagnostic or mechanistic conclusions.
+
+Both are published as preprints / research notes in *Gauge Freedom Field Notes*, rather than externally peer-reviewed journal articles. Original research pages and PDFs are linked in the [Publications list](../../publications/index.qmd).
+
+## References

@@ -1,0 +1,11 @@
+---
+title: "Category: Code"
+description: "Essays and notes on open-source scientific code, quasicrystalline computing, meta-coding theory, and algebraic structures by Marcelo Maciel Amaral."
+listing:
+  contents: "../../20[0-9][0-9]/*/*/*/index.qmd"
+  sort: "date desc"
+  type: default
+  include:
+    categories: "Code"
+  fields: [image, date, title, description, categories, reading-time]
+---

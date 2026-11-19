@@ -1,0 +1,14 @@
+---
+title: "Technical Research Notes & Agent Reports"
+description: "Structured technical notes, reproducible research articles, and agent-imported scientific summaries."
+listing:
+  contents:
+    - "../publications/articles/*/index.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title, author, description, categories]
+---
+
+This section indexes structured technical research articles and reproducible reports that bridge formal manuscripts and executable code—including articles formatted with our agent-friendly scientific publishing template (`notes/_template.qmd` and `data/schemas/agent-submission.schema.json`).
+
+For broader historical and philosophical essays, visit the [Blog](../blog/index.qmd). For the complete bibliography of 35 works, visit [Publications](../publications/index.qmd).

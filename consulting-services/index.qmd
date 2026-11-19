@@ -1,0 +1,27 @@
+---
+title: "Consulting Services"
+description: "Interdisciplinary scientific consulting and technical lectures in quantum information, topological quantum computing, quasicrystals, and computational data science."
+---
+
+Hello, I am a seasoned physicist and data analyst specializing in Quantum Information Science, Topological Quantum Computation, and Quantum Gravity. I offer consulting services bolstered by an interdisciplinary background spanning theoretical physics, computer science, and electrical engineering.
+
+With a Ph.D. and Master's degree in Physics and a Bachelor's degree in Electrical Engineering, I leverage my theoretical knowledge and computational prowess to navigate complex problems. My diverse professional experience, ranging from academia to the tech industry as a Systems Analyst, Software Engineer, Research Scientist, and Professor, enables me to tackle both theoretical and practical challenges with ease.
+
+Whether you're a tech startup, research institution, or an individual exploring these fields, I can provide professional insights, advanced reports, and decision-making support informed by the latest scientific research and technologies.
+
+## Areas of Expertise
+
+- **Quantum Science:** Quantum Information Science, Topological Quantum Computation, Quantum Gravity, and Quantum Field Theory
+- **Material Science:** Emphasis on Quasicrystalline Materials and Topological Phases of Matter
+- **Computational Data Science:** Experience with Large Language Models (LLMs), Python, and Wolfram Mathematica
+- **Interdisciplinary Research:** Bridging physics, computer science, biology, and medicine
+
+## Lectures & Advisory
+
+My services are not limited to consultation. I also provide lectures tailored to your organization's needs, covering the latest trends, scientific discoveries, and technological advancements.
+
+My aim is to deliver valuable insights and innovative solutions, tailor-made for your specific needs, and grounded in the most recent research and technological trends. I invite you to browse my [list of publications](../publications/index.qmd) and [research overview](../research/index.qmd) for a deeper understanding of my work.
+
+## Connect
+
+Interested in discussing potential consulting opportunities or simply have a question? Please [connect](../contact/index.qmd) to get in touch via LinkedIn or X. I look forward to working with you.

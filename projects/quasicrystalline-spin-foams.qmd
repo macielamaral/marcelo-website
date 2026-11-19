@@ -1,0 +1,34 @@
+---
+title: "Quasicrystalline Spin Foams & Quantum Gravity"
+description: "Living project record on quasicrystalline spin foams with matter, SU(2)_q at the fifth root of unity, and relational path-integral clocks."
+bibliography: ../publications/references.bib
+---
+
+::: {.project-meta}
+**Domain:** [Quantum Gravity & Cosmology](../research/quantum-gravity/index.qmd)  
+**Research Status:** <span class="status-pill status-verified">Active — Peer-Reviewed Publications</span>  
+**Key Identifiers:** [DOI: 10.20935/AcadQuant7585](https://doi.org/10.20935/AcadQuant7585) · [arXiv:2306.01964](https://arxiv.org/abs/2306.01964) · [DOI: 10.1016/j.physo.2021.100098](https://doi.org/10.1016/j.physo.2021.100098) · [DOI: 10.3390/foundations1020011](https://doi.org/10.3390/foundations1020011) · [DOI: 10.1016/j.aop.2017.11.027](https://doi.org/10.1016/j.aop.2017.11.027)
+:::
+
+**Quasicrystalline Spin Foam with Matter: Definitions and Examples** is published in [*Academia Quantum* 2(1), March 21, 2025](https://www.academia.edu/3064-979X/2/1/10.20935/AcadQuant7585), by Marcelo Maciel Amaral, Richard Clawson, and Klee Irwin. The [2023 arXiv preprint](https://arxiv.org/abs/2306.01964) remains available.
+
+## Scientific Question & Motivation
+
+In background-independent approaches to quantum gravity, histories of quantum geometry are summed over discrete 2-complexes (spin foams). Two foundational questions arise:
+
+1. **Combinatorial Selection & Matter Coupling:** What geometric principle restricts the sum over arbitrary 2-complexes so that long-range quasi-translational order and realistic gauge/fermionic matter couplings emerge?
+2. **Relational Time Evolution:** In a diffeomorphism- and reparametrization-invariant theory without external coordinate time, how are quantum transition amplitudes evaluated with respect to physical internal clocks?
+
+## Conceptual & Mathematical Overview
+
+### 1. Cut-and-Project 2-Complexes and $\mathrm{SU}(2)_q$ State Sums
+By projecting root lattices (such as $D_n$, $E_8$, or icosahedral lattices) onto lower-dimensional physical slices via cut-and-project model sets [@amaral2021modelsets; @amaral2021statesum], the resulting cellular decomposition possesses deterministic aperiodic order, discrete scale-inflation symmetry, and finite local vertex configurations. Decorating edges and faces with representations of $\mathcal{U}_q(\mathfrak{su}(2))$ at the fifth root of unity $q = e^{2\pi i / 5}$ regulates bubble divergences and connects 3D/4D spin-foam amplitudes directly to golden-ratio quantum dimensions [@amaral2022fifthroot]. Extending this cellular complex with gauge holonomies and vertex matter fields yields explicit quasicrystalline spin-foam models with matter [@amaral2023qsf].
+
+### 2. Path-Integral Relational Clocks
+In constrained Hamiltonian systems $C(q^a, p_a) = 0$, choosing a local degree of freedom $t = q^0$ as an internal clock requires gauge-fixing Fadeev–Popov determinants that remain valid even near turning points where a single clock stops being monotonic, enabling consistent clock-switching inside the path integral [@amaral2018time].
+
+## Collaborators
+
+Work across this multi-paper program includes collaborations with **Martin Bojowald** (Penn State University) and **Raymond Aschheim**, **Richard Clawson**, **Fang Fang**, **Dugan Hammock**, and **Klee Irwin** (Quantum Gravity Research).
+
+## References

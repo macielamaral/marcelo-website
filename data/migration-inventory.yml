@@ -1,0 +1,329 @@
+site_source: "https://www.marcelomacielamaral.com/"
+inspected_at: "2026-11-11"
+discovery_methods:
+  - "WordPress REST API (/wp-json/wp/v2/pages, posts, categories, tags, media, types)"
+  - "XML Sitemaps (sitemap.xml, post-sitemap.xml, page-sitemap.xml, category-sitemap.xml)"
+  - "Direct HTML & JSON-LD inspection"
+  - "Live Crossref & arXiv API bibliography verification"
+  - "Headless Chrome visual screenshots (desktop 1440px and mobile 390px)"
+
+pages:
+  - wp_id: 5
+    original_url: "https://www.marcelomacielamaral.com/"
+    proposed_quarto_url: "/"
+    canonical_url: "/"
+    title: "Quantum Gravity Research Scientist — Marcelo Maciel Amaral"
+    content_type: "page"
+    published_date: "2023-07-26"
+    modified_date: "2025-07-15"
+    migration_status: "migrated-and-redesigned"
+    notes: "Preserved mission, portrait, QGR YouTube interview, all 6 social links, 6-post grid, and prominent 'Quantum Gravity Research' H2 heading."
+
+  - wp_id: 6
+    original_url: "https://www.marcelomacielamaral.com/about/"
+    proposed_quarto_url: "/research/"
+    alias_urls: ["/about/"]
+    canonical_url: "/research/"
+    title: "Research"
+    content_type: "page"
+    published_date: "2023-07-26"
+    modified_date: "2025-09-29"
+    migration_status: "migrated-with-alias"
+    notes: "All 6 research categories, academic profile links, and 24 WP bibliographic entries preserved across /research/ and /publications/, with canonical + meta-refresh + JS redirect at /about/."
+
+  - wp_id: 62
+    original_url: "https://www.marcelomacielamaral.com/bio/"
+    proposed_quarto_url: "/bio/"
+    canonical_url: "/bio/"
+    title: "Bio"
+    content_type: "page"
+    published_date: "2023-07-31"
+    modified_date: "2025-07-15"
+    migration_status: "migrated"
+    notes: "Full biographical text, institutional logos (UNESP, i-Motirõ, UERJ, QGR), AperiodiQ & Gauge Freedom references, and Frank Herbert Dune epigraph preserved verbatim (correcting Portuguese false-cognate 'graduate' -> 'undergraduate' for 1996 UNESP B.S.)."
+
+  - wp_id: 287
+    original_url: "https://www.marcelomacielamaral.com/venture/"
+    proposed_quarto_url: "/venture/"
+    canonical_url: "/venture/"
+    title: "Venture"
+    content_type: "page"
+    published_date: "2025-07-15"
+    modified_date: "2025-09-16"
+    migration_status: "migrated"
+    notes: "Preserved Gauge Freedom, Inc. mission, Human-AI Symbiosis statement verbatim, and featured arXiv:2506.21643 link."
+
+  - wp_id: 153
+    original_url: "https://www.marcelomacielamaral.com/gpts/"
+    proposed_quarto_url: "/creator/"
+    alias_urls: ["/gpts/"]
+    canonical_url: "/creator/"
+    title: "Creator — Music & Books"
+    content_type: "page"
+    published_date: "2023-11-16"
+    modified_date: "2025-01-31"
+    migration_status: "migrated-with-alias"
+    notes: "Albums and book content retained. Legacy custom GPT promotions removed on 2026-11-15; /gpts/ retains its noindex canonical + meta-refresh + JS redirect to /creator/ and is excluded from the sitemap."
+
+  - wp_id: 126
+    original_url: "https://www.marcelomacielamaral.com/books/"
+    proposed_quarto_url: "/books/"
+    canonical_url: "/books/"
+    title: "Books"
+    content_type: "page"
+    published_date: "2023-10-19"
+    modified_date: "2023-10-19"
+    migration_status: "migrated"
+    notes: "Preserved Open-Sourcing Reality Codes Series Volume 1 (English & Portuguese editions) and cover artwork."
+
+  - wp_id: 57
+    original_url: "https://www.marcelomacielamaral.com/consulting-services/"
+    proposed_quarto_url: "/consulting-services/"
+    canonical_url: "/consulting-services/"
+    title: "Consulting Services"
+    content_type: "page"
+    published_date: "2023-07-28"
+    modified_date: "2023-08-03"
+    migration_status: "migrated"
+    notes: "Preserved full consulting overview, roles (Systems Analyst, Software Engineer, Research Scientist, Professor), and areas of expertise verbatim; PHP WPForms widget replaced with static link to Contact channels."
+
+  - wp_id: 7
+    original_url: "https://www.marcelomacielamaral.com/contact/"
+    proposed_quarto_url: "/contact/"
+    canonical_url: "/contact/"
+    title: "Contact"
+    content_type: "page"
+    published_date: "2023-07-26"
+    modified_date: "2026-03-30"
+    migration_status: "migrated"
+    notes: "Preserved LinkedIn and X links alongside verified GitHub, Google Scholar, ResearchGate, QGR, Wolfram Community, Medium, Instagram, and Facebook profiles."
+
+  - wp_id: 8
+    original_url: "https://www.marcelomacielamaral.com/blog/"
+    proposed_quarto_url: "/blog/"
+    canonical_url: "/blog/"
+    title: "Blog"
+    content_type: "page"
+    published_date: "2023-07-26"
+    modified_date: "2023-07-26"
+    migration_status: "migrated"
+    notes: "Preserved 'Reality is Code Theoretic.' tagline, Quarto category filterable listing, and RSS feed (/blog/index.xml)."
+
+  - wp_id: 149
+    original_url: "https://www.marcelomacielamaral.com/privacy-policy/"
+    proposed_quarto_url: "/privacy-policy/"
+    canonical_url: "/privacy-policy/"
+    title: "Privacy Policy"
+    content_type: "page"
+    published_date: "2023-11-15"
+    modified_date: "2023-11-15"
+    migration_status: "migrated"
+    notes: "Original policy migrated verbatim; replaced on 2026-11-15 with a concise static-site policy covering GitHub Pages, external resources, browser preferences, and correspondence. URL preserved."
+
+  - wp_id: 2
+    original_url: "https://www.marcelomacielamaral.com/sample-page/"
+    proposed_quarto_url: null
+    canonical_url: null
+    title: "Sample Page"
+    content_type: "page"
+    published_date: "2023-07-26"
+    modified_date: "2023-07-26"
+    migration_status: "intentionally-excluded"
+    notes: "Default WordPress installation placeholder text ('Hi there! I'm a bike messenger by day...'). Excluded intentionally."
+
+categories:
+  - wp_id: 5
+    original_url: "https://www.marcelomacielamaral.com/category/science/"
+    proposed_quarto_url: "/category/science/"
+    canonical_url: "/category/science/"
+    title: "Category: Science"
+    migration_status: "migrated-direct-path"
+  - wp_id: 6
+    original_url: "https://www.marcelomacielamaral.com/category/code/"
+    proposed_quarto_url: "/category/code/"
+    canonical_url: "/category/code/"
+    title: "Category: Code"
+    migration_status: "migrated-direct-path"
+  - wp_id: 4
+    original_url: "https://www.marcelomacielamaral.com/category/culture/"
+    proposed_quarto_url: "/category/culture/"
+    canonical_url: "/category/culture/"
+    title: "Category: Culture"
+    migration_status: "migrated-direct-path"
+  - wp_id: 7
+    original_url: "https://www.marcelomacielamaral.com/category/open-sourcing/"
+    proposed_quarto_url: "/category/open-sourcing/"
+    canonical_url: "/category/open-sourcing/"
+    title: "Category: Open-Sourcing"
+    migration_status: "migrated-direct-path"
+
+posts:
+  - wp_id: 315
+    original_url: "https://www.marcelomacielamaral.com/2026/09/21/play-with-science-nik-seixas/"
+    proposed_quarto_url: "/2026/09/21/play-with-science-nik-seixas/"
+    canonical_url: "/2026/09/21/play-with-science-nik-seixas/"
+    title: "Play with Science: A New Nik Seixas Album Made with Human + AI Creativity"
+    content_type: "post"
+    published_date: "2026-09-21"
+    categories: ["Culture", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/creator/play-with-science-cover.png"]
+
+  - wp_id: 258
+    original_url: "https://www.marcelomacielamaral.com/2025/01/05/planck-scale-pioneers-2-poincare-and-the-concept-of-fundamental-time/"
+    proposed_quarto_url: "/2025/01/05/planck-scale-pioneers-2-poincare-and-the-concept-of-fundamental-time/"
+    canonical_url: "/2025/01/05/planck-scale-pioneers-2-poincare-and-the-concept-of-fundamental-time/"
+    title: "Planck Scale Pioneers 2: Poincaré and The Concept of Fundamental Time"
+    content_type: "post"
+    published_date: "2025-01-05"
+    categories: ["Science"]
+    migration_status: "migrated-direct-path"
+    notes: "Fixed broken internal date link to Part 1 (2025/01/31 -> 2025/01/03) and rendered Planck time bitmap image-4.png as MathJax equation."
+
+  - wp_id: 249
+    original_url: "https://www.marcelomacielamaral.com/2025/01/03/planck-scale-pioneers-1-max-planck-planck-units-and-the-quantum-revolution/"
+    proposed_quarto_url: "/2025/01/03/planck-scale-pioneers-1-max-planck-planck-units-and-the-quantum-revolution/"
+    canonical_url: "/2025/01/03/planck-scale-pioneers-1-max-planck-planck-units-and-the-quantum-revolution/"
+    title: "Planck Scale Pioneers 1: Max Planck, Planck Units, and the Quantum Revolution"
+    content_type: "post"
+    published_date: "2025-01-03"
+    categories: ["Open-Sourcing", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/max-planck.png"]
+    notes: "Converted bitmap equation screenshots (image-1..3.png) to MathJax and corrected missing minus sign in 1899 Planck length exponent (10^33 cm -> 10^-33 cm)."
+
+  - wp_id: 135
+    original_url: "https://www.marcelomacielamaral.com/2024/12/25/moire-quasicrystals-topological-quantum-computing-a-new-frontier/"
+    proposed_quarto_url: "/2024/12/25/moire-quasicrystals-topological-quantum-computing-a-new-frontier/"
+    canonical_url: "/2024/12/25/moire-quasicrystals-topological-quantum-computing-a-new-frontier/"
+    title: "Moiré Quasicrystals & Topological Quantum Computing: A New Frontier"
+    content_type: "post"
+    published_date: "2024-12-25"
+    categories: ["Code", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media:
+      - "assets/images/blog/ribbon-phason-flip.png"
+      - "assets/images/blog/tqc-over-quasicrystals.png"
+      - "assets/images/blog/fibonacci-anyon-quasicrystal-map.png"
+
+  - wp_id: 228
+    original_url: "https://www.marcelomacielamaral.com/2024/08/22/planck-scale-pioneers-article-series/"
+    proposed_quarto_url: "/2024/08/22/planck-scale-pioneers-article-series/"
+    canonical_url: "/2024/08/22/planck-scale-pioneers-article-series/"
+    title: "Planck Scale Pioneers: Article Series"
+    content_type: "post"
+    published_date: "2024-08-22"
+    categories: ["Code", "Open-Sourcing", "Science"]
+    migration_status: "migrated-direct-path"
+
+  - wp_id: 193
+    original_url: "https://www.marcelomacielamaral.com/2024/03/31/su2-a-fundamental-building-block-of-reality/"
+    proposed_quarto_url: "/2024/03/31/su2-a-fundamental-building-block-of-reality/"
+    canonical_url: "/2024/03/31/su2-a-fundamental-building-block-of-reality/"
+    title: "SU(2): A Fundamental Building Block of Reality"
+    content_type: "post"
+    published_date: "2024-03-31"
+    categories: ["Code", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media:
+      - "assets/media/SUCommutation.mp4"
+      - "assets/media/Gauge-Freedom.mp3"
+      - "assets/images/blog/galois-duel.webp"
+    notes: "Rendered WP KaTeX <pre> blocks via MathJax, preserved Galois figure caption, and removed stray bracket typo in 'advancements]'."
+
+  - wp_id: 178
+    original_url: "https://www.marcelomacielamaral.com/2024/01/06/code-and-open-source-beyond-computers-planck-scale-pioneers/"
+    proposed_quarto_url: "/2024/01/06/code-and-open-source-beyond-computers-planck-scale-pioneers/"
+    canonical_url: "/2024/01/06/code-and-open-source-beyond-computers-planck-scale-pioneers/"
+    title: "Code and Open Source Beyond Computers: Planck Scale Pioneers"
+    content_type: "post"
+    published_date: "2024-01-06"
+    categories: ["Code", "Open-Sourcing", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/codes-small-scales.png"]
+
+  - wp_id: 169
+    original_url: "https://www.marcelomacielamaral.com/2023/11/30/the-unification-vision-of-abdus-salam-bridging-forces-and-cultures-in-physics/"
+    proposed_quarto_url: "/2023/11/30/the-unification-vision-of-abdus-salam-bridging-forces-and-cultures-in-physics/"
+    canonical_url: "/2023/11/30/the-unification-vision-of-abdus-salam-bridging-forces-and-cultures-in-physics/"
+    title: "The Unification Vision of Abdus Salam: Bridging Forces and Cultures in Physics"
+    content_type: "post"
+    published_date: "2023-11-30"
+    categories: ["Culture", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/abdus-salam-unification.png"]
+
+  - wp_id: 158
+    original_url: "https://www.marcelomacielamaral.com/2023/11/25/beyond-the-linear-dichotomy-of-left-and-right-a-higher-dimensional-political-perspective/"
+    proposed_quarto_url: "/2023/11/25/beyond-the-linear-dichotomy-of-left-and-right-a-higher-dimensional-political-perspective/"
+    canonical_url: "/2023/11/25/beyond-the-linear-dichotomy-of-left-and-right-a-higher-dimensional-political-perspective/"
+    title: "Beyond the Linear Politics: A Higher-Dimensional Political Perspective"
+    content_type: "post"
+    published_date: "2023-11-25"
+    categories: ["Culture"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/higher-dim-politics.png"]
+
+  - wp_id: 131
+    original_url: "https://www.marcelomacielamaral.com/2023/10/24/meta-coding-theory-on-the-unification-of-information-systems/"
+    proposed_quarto_url: "/2023/10/24/meta-coding-theory-on-the-unification-of-information-systems/"
+    canonical_url: "/2023/10/24/meta-coding-theory-on-the-unification-of-information-systems/"
+    title: "Meta-Coding Theory: On the Unification of Information Systems"
+    content_type: "post"
+    published_date: "2023-10-24"
+    categories: ["Code", "Culture", "Open-Sourcing", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/meta-coding-quasicrystal.png"]
+
+  - wp_id: 120
+    original_url: "https://www.marcelomacielamaral.com/2023/10/13/open-source-vs-open-access-the-evolving-landscape-of-scientific-research-licenses-on-arxiv/"
+    proposed_quarto_url: "/2023/10/13/open-source-vs-open-access-the-evolving-landscape-of-scientific-research-licenses-on-arxiv/"
+    canonical_url: "/2023/10/13/open-source-vs-open-access-the-evolving-landscape-of-scientific-research-licenses-on-arxiv/"
+    title: "Open Source vs. Open Access: The Evolving Landscape of Scientific Research Licenses on arXiv"
+    content_type: "post"
+    published_date: "2023-10-13"
+    categories: ["Code", "Culture", "Open-Sourcing", "Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/arxiv-hep-th-licenses-by-year.png"]
+
+  - wp_id: 100
+    original_url: "https://www.marcelomacielamaral.com/2023/10/07/the-quantum-legacy-of-paul-dirac-spin-antimatter-and-the-evolution-of-the-scientific-method/"
+    proposed_quarto_url: "/2023/10/07/the-quantum-legacy-of-paul-dirac-spin-antimatter-and-the-evolution-of-the-scientific-method/"
+    canonical_url: "/2023/10/07/the-quantum-legacy-of-paul-dirac-spin-antimatter-and-the-evolution-of-the-scientific-method/"
+    title: "The Quantum Legacy of Paul Dirac: Spin, Antimatter, and the Evolution of the Scientific Method"
+    content_type: "post"
+    published_date: "2023-10-07"
+    categories: ["Science"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/dirac-spin-illustration.png"]
+    notes: "Preserved verbatim text and 'Image By DALL·E 3' figure attribution."
+
+  - wp_id: 88
+    original_url: "https://www.marcelomacielamaral.com/2023/09/29/universal-love-based-child-care-universal-family-benefit-ufb-foundations-of-our-future/"
+    proposed_quarto_url: "/2023/09/29/universal-love-based-child-care-universal-family-benefit-ufb-foundations-of-our-future/"
+    canonical_url: "/2023/09/29/universal-love-based-child-care-universal-family-benefit-ufb-foundations-of-our-future/"
+    title: "Universal Family Benefit (UFB): The Foundations of our Future"
+    content_type: "post"
+    published_date: "2023-09-29"
+    categories: ["Culture"]
+    migration_status: "migrated-direct-path"
+    recovered_media: ["assets/images/blog/ufb-banner.png"]
+    notes: "Preserved verbatim text, 'Image generated by Midjourney' attribution, and fixed 'Integrationg' heading typo."
+
+  - wp_id: 1
+    original_url: "https://www.marcelomacielamaral.com/2023/09/23/open-source/"
+    proposed_quarto_url: "/2023/09/23/open-source/"
+    canonical_url: "/2023/09/23/open-source/"
+    title: "Code!"
+    content_type: "post"
+    published_date: "2023-09-23"
+    categories: ["Code"]
+    migration_status: "migrated-direct-path"
+
+excluded_unlinked_media:
+  - wp_id: 251
+    original_url: "https://www.marcelomacielamaral.com/wp-content/uploads/2025/01/Planck-Scale-Pioneers-1.mp4"
+    reason: "87.6 MB video attachment not embedded in any published page or post; excluded to prevent Git repository bloat."
+  - wp_id: 25
+    original_url: "https://www.marcelomacielamaral.com/wp-content/uploads/2023/07/QGR-General-Review-updated-06.18.19.doc"
+    reason: "Unlinked legacy Word document in WP uploads; excluded per public/private data hygiene policy."

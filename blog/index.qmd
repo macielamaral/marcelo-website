@@ -1,0 +1,16 @@
+---
+title: "Blog — Essays & Series"
+subtitle: "Reality is Code Theoretic."
+description: "Essays by Marcelo Maciel Amaral on quantum gravity, Planck Scale Pioneers, quasicrystals, SU(2) gauge symmetry, open science, and culture."
+listing:
+  contents: "../20[0-9][0-9]/*/*/*/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed:
+    title: "Marcelo Maciel Amaral — Scientific Blog"
+    description: "Reality is Code Theoretic — essays on quantum gravity, quasicrystals, open source, and science."
+  fields: [image, date, title, description, categories, reading-time]
+---

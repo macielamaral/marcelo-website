@@ -1,0 +1,11 @@
+---
+title: "Category: Science"
+description: "Scientific essays and Planck Scale Pioneers articles on quantum gravity, quasicrystals, gauge symmetry, and theoretical physics by Marcelo Maciel Amaral."
+listing:
+  contents: "../../20[0-9][0-9]/*/*/*/index.qmd"
+  sort: "date desc"
+  type: default
+  include:
+    categories: "Science"
+  fields: [image, date, title, description, categories, reading-time]
+---

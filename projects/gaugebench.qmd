@@ -1,0 +1,22 @@
+---
+title: "GaugeBench — Verifiable Quantum Benchmarking"
+description: "Living project record for GaugeBench: verifiable quantum benchmarking with Content-Addressable Receipts (CARs)."
+bibliography: ../publications/references.bib
+---
+
+::: {.project-meta}
+**Domain:** [Topological Quantum Computing](../research/quantum-computing/index.qmd) · [Venture](../venture/index.qmd)  
+**Research Status:** <span class="status-pill status-verified">Active — Public Open-Source Repository</span>  
+**Source Repository:** [github.com/macielamaral/gaugebench](https://github.com/macielamaral/gaugebench)
+:::
+
+## Motivation & Overview
+
+Benchmarking quantum simulators and hardware backends often suffers from opaque configuration drift, non-reproducible post-processing, and unverifiable execution claims. **GaugeBench** [@amaral2026gaugebench] provides an open benchmark harness that wraps two distinct physics engines:
+
+- **QIC Engine (Gate-Based / IBM-compatible):** Circuits derived from the [Quasicrystal Inflation Code](quasicrystal-inflation-code.qmd) [@amaral2025qic] testing constrained Fibonacci-subspace state preparation and braid gate fidelity.
+- **Hierarchy Engine (Quantum Annealing / D-Wave-compatible):** Constrained Ising/QUBO problem instances probing hierarchical frustration and energy landscapes.
+
+Every benchmark execution emits a cryptographically verifiable **Content-Addressable Receipt (CAR)** recording input circuit/Hamiltonian hashes, backend parameters, raw measurement counts, and deterministic verification checks—executable reproducibly on free local simulators or cloud quantum hardware backends.
+
+## References

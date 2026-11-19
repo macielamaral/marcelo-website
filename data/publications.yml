@@ -1,0 +1,829 @@
+publications:
+  - id: amaral2026cartan
+    title: "Physical selection of Cartan soft breakings in a broken SU(3) Yang–Mills model"
+    authors: ["M. M. Amaral", "V. E. R. Lemes"]
+    year: 2026
+    date: "2026-10-17"
+    venue: "International Journal of Modern Physics A"
+    volume: "41"
+    issue: "31"
+    pages: "2650179"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: true
+    doi: "10.1142/S0217751X26501794"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://doi.org/10.1142/S0217751X26501794"
+    pdf_url: "https://www.worldscientific.com/doi/pdf/10.1142/S0217751X26501794"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["Yang-Mills", "SU(3)", "Cartan deformations", "i-particles", "BRST symmetry", "algebraic renormalization"]
+    abstract: "Studies generic Cartan-valued soft deformations of a broken SU(3) Yang-Mills model, identifying a leading-order spectral selection criterion for composite channels. Presents a BRST-invariant spontaneous realization and its algebraic renormalizability in Landau gauge; the spectral criterion is not a nonperturbative determination of the physical spectrum."
+
+  - id: amaral2026brst
+    title: "Background-Equivariant BRST Observables and i-Particle Propagators from an Auxiliary Quartet in SU(3) Yang-Mills"
+    authors: ["M. M. Amaral", "V. E. R. Lemes"]
+    year: 2026
+    venue: "Nuclear Physics B"
+    volume: "1032"
+    pages: "117681"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: true
+    doi: "10.1016/j.nuclphysb.2026.117681"
+    arxiv: "2605.16172"
+    zenodo_doi: null
+    url: "https://doi.org/10.1016/j.nuclphysb.2026.117681"
+    pdf_url: "https://arxiv.org/pdf/2605.16172.pdf"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["Yang-Mills", "BRST symmetry", "Gribov problem", "SU(3)", "confinement"]
+    abstract: "Formulation of background-equivariant BRST observables and infrared i-particle propagators via an auxiliary quartet in SU(3) Yang-Mills gauge theory."
+
+  - id: amaral2025qic
+    title: "Consistent Simulation of Fibonacci Anyon Braiding within a Qubit Quasicrystal Inflation Code"
+    authors: ["Marcelo M. Amaral"]
+    year: 2025
+    venue: "arXiv Preprint"
+    type: preprint
+    status: preprint
+    category: "Topological Quantum Computing"
+    featured: true
+    doi: "10.48550/arXiv.2506.21643"
+    arxiv: "2506.21643"
+    zenodo_doi: null
+    url: "https://arxiv.org/abs/2506.21643"
+    pdf_url: "https://arxiv.org/pdf/2506.21643.pdf"
+    repo_url: "https://github.com/macielamaral/quasicrystal-inflation-code"
+    article_page: "/publications/articles/fibonacci-quasicrystal-inflation-code/"
+    project: "quasicrystal-inflation-code"
+    keywords: ["Fibonacci anyons", "topological quantum computing", "quasicrystals", "Temperley-Lieb algebra", "braiding"]
+    abstract: "Demonstrates an exact algebraic encoding and simulation of Fibonacci anyon fusion and braiding inside a constrained 1D qubit chain governed by Fibonacci quasicrystal inflation rules."
+
+  - id: amaral2025fibonacci
+    title: "A Hierarchy of Fibonacci Forbidden-Word Hamiltonians: From the Golden Chain to the Plastic Chain and Aperiodic Order"
+    authors: ["Marcelo Maciel Amaral"]
+    year: 2025
+    date: "2025-11-09"
+    venue: "arXiv Preprint"
+    type: preprint
+    status: preprint
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.48550/arXiv.2511.10672"
+    arxiv: "2511.10672"
+    zenodo_doi: null
+    url: "https://arxiv.org/abs/2511.10672"
+    pdf_url: "https://arxiv.org/pdf/2511.10672"
+    repo_url: null
+    project: "quasicrystal-inflation-code"
+    keywords: ["Fibonacci words", "frustration-free Hamiltonians", "aperiodic order", "plastic constant", "Temperley-Lieb algebra", "quantum annealing"]
+    abstract: "Constructs a hierarchy of frustration-free Hamiltonians from forbidden Fibonacci patterns, connecting the golden chain, the plastic chain, and the zero-entropy Fibonacci subshift. Distinguishes the base rung's exact Temperley-Lieb braiding structure from higher-rung constrained aperiodic Hamiltonian codes."
+
+  - id: amaral2025deus
+    title: "Deus Fons Apertus: The Eucharist as the Divine Ground of Open Source"
+    authors: ["Marcelo Maciel Amaral"]
+    year: 2025
+    venue: "PhilPapers"
+    type: report
+    status: archived-manuscript
+    category: "Philosophy, Theology, and Foundations of Physics"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://philpapers.org/rec/AMADFA"
+    pdf_url: null
+    repo_url: null
+    project: "foundations"
+    keywords: ["theology", "open source", "philosophy", "gift economy"]
+    abstract: "Philosophical and theological inquiry examining open-source knowledge sharing in light of classical Christian sacramental ontology."
+
+  - id: amaral2024tiling
+    title: "Tiling Spaces and the Expanding Universe: Bridging Quantum Mechanics and Cosmology"
+    authors: ["Marcelo Maciel Amaral", "Aman Yadav"]
+    year: 2024
+    venue: "arXiv Preprint"
+    type: preprint
+    status: preprint
+    category: "Quantum Gravity and Cosmology"
+    additional_categories: ["Emergence Theory and Quasicrystalline Codes"]
+    featured: true
+    doi: "10.48550/arXiv.2407.14520"
+    arxiv: "2407.14520"
+    zenodo_doi: null
+    url: "https://arxiv.org/abs/2407.14520"
+    pdf_url: "https://arxiv.org/pdf/2407.14520.pdf"
+    repo_url: null
+    project: "tiling-space-cosmology"
+    keywords: ["quasicrystals", "tiling spaces", "cosmology", "quantum gravity"]
+    abstract: "Investigates aperiodic tiling spaces and cut-and-project quasicrystalline geometries as models bridging microscopic quantum mechanics and cosmic expansion."
+
+  - id: amaral2023qsf
+    title: "Quasicrystalline Spin Foam with Matter: Definitions and Examples"
+    authors: ["Marcelo Maciel Amaral", "Richard Clawson", "Klee Irwin"]
+    year: 2025
+    date: "2025-03-21"
+    venue: "Academia Quantum"
+    volume: "2"
+    issue: "1"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Gravity and Cosmology"
+    featured: true
+    doi: "10.20935/AcadQuant7585"
+    arxiv: "2306.01964"
+    zenodo_doi: null
+    url: "https://www.academia.edu/3064-979X/2/1/10.20935/AcadQuant7585"
+    pdf_url: "https://arxiv.org/pdf/2306.01964.pdf"
+    repo_url: null
+    project: "quasicrystalline-spin-foams"
+    keywords: ["spin foams", "loop quantum gravity", "quasicrystals", "matter coupling"]
+    abstract: "Defines quasicrystalline 2-complexes decorated by group representations and intertwiners to couple gauge and matter degrees of freedom to discrete spin-foam spacetime geometries."
+
+  - id: amaral2026mirna
+    title: "Seed-Window Algebraic Instability in Dementia-Associated miRNAs: A Pilot Study"
+    authors: ["Marcelo Maciel Amaral"]
+    year: 2026
+    date: "2026-05-22"
+    venue: "Gauge Freedom Field Notes"
+    type: research-note
+    status: preprint
+    category: "Genetic Code and Quantum Information"
+    featured: false
+    doi: "10.65323/gf-lab.2026.001"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.gaugefreedom.com/seed-window-algebraic-instability-in-dementia-associated-mirnas-a-pilot-study/"
+    pdf_url: "https://www.gaugefreedom.com/wp-content/uploads/2026/05/Seed-Window-miRNAs.pdf"
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["miRNA", "algebraic instability", "character varieties", "pilot study"]
+    abstract: "Exploratory computational study of algebraic transitions across overlapping seed windows in dementia-associated miRNAs; it does not establish diagnostic or mechanistic claims."
+
+  - id: amaral2025sigma
+    title: "Nonlinear Sigma Models on Statistical Manifolds: Equations of Motion"
+    authors: ["Marcelo Maciel Amaral"]
+    year: 2025
+    date: "2025-11-14"
+    venue: "Gauge Freedom Field Notes"
+    type: research-note
+    status: preprint
+    category: "Information Geometry"
+    featured: false
+    doi: "10.65323/gf-lab.2025.001"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.gaugefreedom.com/sigma-models-on-statistical-manifolds-equations-of-motion/"
+    pdf_url: "https://www.gaugefreedom.com/nonlinear_sigma_models_on_statistical_manifolds_field/"
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["nonlinear sigma models", "information geometry", "Fisher-Rao metric", "equations of motion"]
+    abstract: "Derives classical equations of motion for nonlinear sigma models on statistical base manifolds equipped with the Fisher-Rao metric, with examples from standard probability families."
+
+  - id: amaral2025lockin
+    title: "The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI"
+    authors: ["Marcelo Maciel Amaral", "Raymond Aschheim"]
+    year: 2025
+    date: "2025-10-23"
+    venue: "arXiv Preprint"
+    type: preprint
+    status: preprint
+    category: "Artificial Intelligence"
+    featured: false
+    doi: "10.48550/arXiv.2510.20190"
+    arxiv: "2510.20190"
+    zenodo_doi: null
+    url: "https://arxiv.org/abs/2510.20190"
+    pdf_url: "https://arxiv.org/pdf/2510.20190"
+    repo_url: null
+    project: "energy-efficient-ai"
+    keywords: ["artificial intelligence", "identity consolidation", "learning dynamics", "reliability"]
+    abstract: "Proposes identity consolidation as a possible precursor to AGI, develops operational measures, and reports model-dependent experiments on behavioral consolidation and capability trade-offs. The proposed connection to AGI remains a hypothesis."
+
+  - id: planat2023dna
+    title: "Algebraic Morphology of DNA–RNA Transcription and Regulation"
+    authors: ["Michel Planat", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2023
+    venue: "Symmetry"
+    volume: "15"
+    issue: "3"
+    pages: "770"
+    type: peer-reviewed
+    status: published
+    category: "Genetic Code and Quantum Information"
+    featured: false
+    doi: "10.3390/sym15030770"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2073-8994/15/3/770"
+    pdf_url: null
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["DNA transcription", "free groups", "SL(2,C) character varieties", "quantum information"]
+
+  - id: planat2023mrna
+    title: "Group Theory of Messenger RNA Metabolism and Disease"
+    authors: ["Michel Planat", "Marcelo Amaral", "Fang Fang", "David Chester", "Raymond Aschheim", "Klee Irwin"]
+    year: 2023
+    venue: "Preprints.org"
+    pages: "2023070107"
+    type: preprint
+    status: preprint
+    category: "Genetic Code and Quantum Information"
+    featured: false
+    doi: "10.20944/preprints202307.0107.v1"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.preprints.org/manuscript/202307.0107/v1"
+    pdf_url: null
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["messenger RNA", "group theory", "character varieties"]
+
+  - id: amaral2022anyonic
+    title: "Exploiting Anyonic Behavior of Quasicrystals for Topological Quantum Computing"
+    authors: ["Marcelo Amaral", "David Chester", "Fang Fang", "Klee Irwin"]
+    year: 2022
+    venue: "Symmetry"
+    volume: "14"
+    issue: "9"
+    pages: "1780"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: true
+    doi: "10.3390/sym14091780"
+    arxiv: "2207.08928"
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2073-8994/14/9/1780"
+    pdf_url: "https://arxiv.org/pdf/2207.08928.pdf"
+    repo_url: null
+    project: "quasicrystal-inflation-code"
+    keywords: ["quasicrystals", "Fibonacci anyons", "topological quantum computing", "Hilbert spaces"]
+    abstract: "Establishes a correspondence between Fibonacci anyon fusion Hilbert spaces and Fibonacci quasicrystal tiling spaces, mapping phason/projection operations to topological braid gates."
+
+  - id: planat2022fricke
+    title: "Fricke Topological Qubits"
+    authors: ["Michel Planat", "David Chester", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2022
+    venue: "Quantum Reports"
+    volume: "4"
+    issue: "4"
+    pages: "523-532"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.3390/quantum4040037"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2624-960X/4/4/37"
+    pdf_url: null
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["Fricke surfaces", "topological qubits", "SL(2,C)"]
+
+  - id: planat2022character
+    title: "Character Varieties and Algebraic Surfaces for the Topology of Quantum Computing"
+    authors: ["Michel Planat", "Marcelo M. Amaral", "Fang Fang", "David Chester", "Raymond Aschheim", "Klee Irwin"]
+    year: 2022
+    venue: "Symmetry"
+    volume: "14"
+    issue: "5"
+    pages: "915"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.3390/sym14050915"
+    arxiv: "2204.06872"
+    zenodo_doi: null
+    url: "https://doi.org/10.3390/sym14050915"
+    pdf_url: "https://arxiv.org/pdf/2204.06872.pdf"
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["character varieties", "Cayley cubic", "topological quantum computing"]
+
+  - id: amaral2022fifthroot
+    title: "Quantum Gravity at the Fifth Root of Unity"
+    authors: ["Marcelo Amaral", "Raymond Aschheim", "Klee Irwin"]
+    year: 2022
+    venue: "Physics Open"
+    volume: "10"
+    pages: "100098"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Gravity and Cosmology"
+    featured: true
+    doi: "10.1016/j.physo.2021.100098"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.sciencedirect.com/science/article/pii/S2666032621000399"
+    pdf_url: null
+    repo_url: null
+    project: "quasicrystalline-spin-foams"
+    keywords: ["quantum groups", "SU(2)_q", "fifth root of unity", "spin networks", "quantum gravity"]
+    abstract: "Investigates q-deformed SU(2) spin networks and 3D/4D state-sum quantum gravity amplitudes specialized at the fifth root of unity, connecting cosmological constant physics to Fibonacci topological phases."
+
+  - id: amaral2021modelsets
+    title: "On the Emergence of Spacetime and Matter from Model Sets"
+    authors: ["Marcelo Amaral", "Fang Fang", "Raymond Aschheim", "Klee Irwin"]
+    year: 2021
+    venue: "Preprints.org (v1 2021; v2 2022)"
+    pages: "2021110359"
+    type: preprint
+    status: preprint
+    category: "Emergence Theory and Quasicrystalline Codes"
+    featured: false
+    doi: "10.20944/preprints202111.0359.v2"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.preprints.org/manuscript/202111.0359/v2"
+    pdf_url: null
+    repo_url: null
+    project: "quasicrystalline-spin-foams"
+    keywords: ["cut-and-project", "model sets", "quasicrystals", "emergent spacetime"]
+
+  - id: amaral2021statesum
+    title: "Geometric State Sum Models from Quasicrystals"
+    authors: ["Marcelo Amaral", "Fang Fang", "Dugan Hammock", "Klee Irwin"]
+    year: 2021
+    venue: "Foundations"
+    volume: "1"
+    issue: "2"
+    pages: "155-168"
+    type: peer-reviewed
+    status: published
+    category: "Emergence Theory and Quasicrystalline Codes"
+    featured: false
+    doi: "10.3390/foundations1020011"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2673-9321/1/2/11"
+    pdf_url: null
+    repo_url: null
+    project: "quasicrystalline-spin-foams"
+    keywords: ["state sum models", "quasicrystals", "spin foams"]
+
+  - id: planat2021graph
+    title: "Graph Coverings for Investigating Non Local Structures in Proteins, Music and Poems"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Fang Fang", "Klee Irwin"]
+    year: 2021
+    venue: "Sci"
+    volume: "3"
+    issue: "4"
+    pages: "39"
+    type: peer-reviewed
+    status: published
+    category: "Philosophy, Theology, and Foundations of Physics"
+    featured: false
+    doi: "10.3390/sci3040039"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2413-4155/3/4/39"
+    pdf_url: null
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["graph coverings", "finite groups", "non-local structures"]
+
+  - id: planat2021kummer
+    title: "Quantum Information in the Protein Codes, 3-Manifolds and the Kummer Surface"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Fang Fang", "Klee Irwin"]
+    year: 2021
+    venue: "Symmetry"
+    volume: "13"
+    issue: "7"
+    pages: "1146"
+    type: peer-reviewed
+    status: published
+    category: "Genetic Code and Quantum Information"
+    featured: false
+    doi: "10.3390/sym13071146"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2073-8994/13/7/1146"
+    pdf_url: null
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["protein codes", "3-manifolds", "Kummer surface", "quantum information"]
+
+  - id: amaral2021wolfram
+    title: "Co-Creating the Code of Reality?"
+    authors: ["Marcelo Maciel Amaral"]
+    year: 2021
+    venue: "Wolfram Community"
+    type: report
+    status: published-essay
+    category: "Philosophy, Theology, and Foundations of Physics"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://community.wolfram.com/groups/-/m/t/2328953"
+    pdf_url: null
+    repo_url: null
+    project: "foundations"
+    keywords: ["computational universe", "code theory", "foundations of physics"]
+
+  - id: amaral2020chernsimons
+    title: "Complex Chern-Simons and the Gribov Scenario for Confinement"
+    authors: ["M. M. Amaral", "V. E. R. Lemes", "O. S. Ventura", "L. C. Q. Vilar"]
+    year: 2020
+    venue: "Brazilian Journal of Physics"
+    volume: "50"
+    issue: "5"
+    pages: "625-633"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: false
+    doi: "10.1007/s13538-020-00768-5"
+    arxiv: "1609.05093"
+    zenodo_doi: null
+    url: "https://doi.org/10.1007/s13538-020-00768-5"
+    pdf_url: "https://arxiv.org/pdf/1609.05093.pdf"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["Chern-Simons", "Gribov copies", "confinement", "gauge theory"]
+
+  - id: irwin2020selfsim
+    title: "The Self-Simulation Hypothesis Interpretation of Quantum Mechanics"
+    authors: ["Klee Irwin", "Marcelo Amaral", "David Chester"]
+    year: 2020
+    venue: "Entropy"
+    volume: "22"
+    issue: "2"
+    pages: "247"
+    type: peer-reviewed
+    status: published
+    category: "Philosophy, Theology, and Foundations of Physics"
+    featured: false
+    doi: "10.3390/e22020247"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/1099-4300/22/2/247"
+    pdf_url: null
+    repo_url: null
+    project: "foundations"
+    keywords: ["quantum foundations", "information physics", "emergence", "principle of efficient language"]
+
+  - id: planat2020dna
+    title: "Complete Quantum Information in the DNA Genetic Code"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Fang Fang", "Klee Irwin"]
+    year: 2020
+    venue: "Symmetry"
+    volume: "12"
+    issue: "12"
+    pages: "1993"
+    type: peer-reviewed
+    status: published
+    category: "Genetic Code and Quantum Information"
+    featured: false
+    doi: "10.3390/sym12121993"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2073-8994/12/12/1993"
+    pdf_url: null
+    repo_url: null
+    project: "information-geometry"
+    keywords: ["genetic code", "Pauli groups", "informationally complete POVM"]
+
+  - id: planat2020mixings
+    title: "Informationally Complete Characters for Quark and Lepton Mixings"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2020
+    venue: "Symmetry"
+    volume: "12"
+    issue: "6"
+    pages: "1000"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: false
+    doi: "10.3390/sym12061000"
+    arxiv: "2005.02009"
+    zenodo_doi: null
+    url: "https://doi.org/10.3390/sym12061000"
+    pdf_url: "https://arxiv.org/pdf/2005.02009.pdf"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["CKM matrix", "PMNS matrix", "finite groups", "quantum information"]
+
+  - id: planat2020exoticr4
+    title: "Quantum Computation and Measurements from an Exotic Space-Time R4"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2020
+    venue: "Symmetry"
+    volume: "12"
+    issue: "5"
+    pages: "736"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.3390/sym12050736"
+    arxiv: "2001.09091"
+    zenodo_doi: null
+    url: "https://doi.org/10.3390/sym12050736"
+    pdf_url: "https://arxiv.org/pdf/2001.09091.pdf"
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["exotic R4", "Akbulut cork", "quantum computation"]
+
+  - id: planat2019magic
+    title: "Group Geometrical Axioms for Magic States of Quantum Computing"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2019
+    venue: "Mathematics"
+    volume: "7"
+    issue: "10"
+    pages: "948"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.3390/math7100948"
+    arxiv: "1906.06068"
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2227-7390/7/10/948"
+    pdf_url: "https://arxiv.org/pdf/1906.06068.pdf"
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["magic states", "finite geometry", "Clifford group"]
+
+  - id: planat2019seifert
+    title: "Quantum Computing, Seifert Surfaces, and Singular Fibers"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2019
+    venue: "Quantum Reports"
+    volume: "1"
+    issue: "1"
+    pages: "12-22"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.3390/quantum1010003"
+    arxiv: "1902.04798"
+    zenodo_doi: null
+    url: "https://doi.org/10.3390/quantum1010003"
+    pdf_url: "https://arxiv.org/pdf/1902.04798.pdf"
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["Seifert surfaces", "knot theory", "quantum computing"]
+
+  - id: brayali2019holographic
+    title: "Holographic Code Rate"
+    authors: ["Noah Bray-Ali", "David Chester", "Dugan Hammock", "Marcelo M. Amaral", "Klee Irwin", "Michael F. Rios"]
+    year: 2019
+    venue: "arXiv Preprint"
+    type: preprint
+    status: preprint
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.48550/arXiv.1908.09253"
+    arxiv: "1908.09253"
+    zenodo_doi: null
+    url: "https://arxiv.org/abs/1908.09253"
+    pdf_url: "https://arxiv.org/pdf/1908.09253.pdf"
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["holographic codes", "quantum error correction", "hyperbolic tilings"]
+
+  - id: amaral2018time
+    title: "A Path-Integral Approach to the Problem of Time"
+    authors: ["M. M. Amaral", "Martin Bojowald"]
+    year: 2018
+    venue: "Annals of Physics"
+    volume: "388"
+    pages: "241-266"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Gravity and Cosmology"
+    featured: true
+    doi: "10.1016/j.aop.2017.11.027"
+    arxiv: "1601.07477"
+    zenodo_doi: null
+    url: "https://doi.org/10.1016/j.aop.2017.11.027"
+    pdf_url: "https://arxiv.org/pdf/1601.07477.pdf"
+    repo_url: null
+    project: "quasicrystalline-spin-foams"
+    keywords: ["problem of time", "path integral", "quantum cosmology", "relational observables"]
+    abstract: "Develops a path-integral treatment of reparametrization-invariant constrained systems to analyze local internal clocks, clock transitions, and quantum corrections to relational dynamics."
+
+  - id: planat2018manifolds
+    title: "Universal Quantum Computing and Three-Manifolds"
+    authors: ["Michel Planat", "Raymond Aschheim", "Marcelo M. Amaral", "Klee Irwin"]
+    year: 2018
+    venue: "Symmetry"
+    volume: "10"
+    issue: "12"
+    pages: "773"
+    type: peer-reviewed
+    status: published
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: "10.3390/sym10120773"
+    arxiv: "1802.04196"
+    zenodo_doi: null
+    url: "https://www.mdpi.com/2073-8994/10/12/773"
+    pdf_url: "https://arxiv.org/pdf/1802.04196.pdf"
+    repo_url: null
+    project: "quantum-computing"
+    keywords: ["three-manifolds", "magic states", "fundamental group", "universal quantum computing"]
+
+  - id: amaral2017anamorphic
+    title: "Anamorphic Quasiperiodic Universes in Modified and Einstein Gravity with Loop Quantum Gravity Corrections"
+    authors: ["Marcelo M. Amaral", "Raymond Aschheim", "Laurenţiu Bubuianu", "Klee Irwin", "Sergiu I. Vacaru", "Daniel Woolridge"]
+    year: 2017
+    venue: "Classical and Quantum Gravity"
+    volume: "34"
+    issue: "18"
+    pages: "185002"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Gravity and Cosmology"
+    featured: true
+    doi: "10.1088/1361-6382/aa828a"
+    arxiv: "1611.05295"
+    zenodo_doi: null
+    url: "https://doi.org/10.1088/1361-6382/aa828a"
+    pdf_url: "https://arxiv.org/pdf/1611.05295.pdf"
+    repo_url: null
+    project: "tiling-space-cosmology"
+    keywords: ["loop quantum cosmology", "quasiperiodic structures", "modified gravity", "Einstein gravity"]
+
+  - id: amaral2016quantumwalk
+    title: "Quantum Walk on a Spin Network"
+    authors: ["M. M. Amaral", "R. Aschheim", "Klee Irwin"]
+    year: 2016
+    venue: "arXiv Preprint"
+    type: preprint
+    status: preprint
+    category: "Quantum Gravity and Cosmology"
+    featured: false
+    doi: "10.48550/arXiv.1602.07653"
+    arxiv: "1602.07653"
+    zenodo_doi: null
+    url: "https://arxiv.org/abs/1602.07653"
+    pdf_url: "https://arxiv.org/pdf/1602.07653.pdf"
+    repo_url: null
+    project: "quasicrystalline-spin-foams"
+    keywords: ["quantum walks", "spin networks", "loop quantum gravity"]
+
+  - id: amaral2015abjm
+    title: "Remarks on Gribov Mechanism on N=1 Supersymmetric 3D Theories and the Possibility of Obtaining Gribov from One ABJM Like Theory"
+    authors: ["M. M. Amaral", "V. E. R. Lemes"]
+    year: 2015
+    venue: "Annals of Physics"
+    volume: "356"
+    pages: "505-520"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: false
+    doi: "10.1016/j.aop.2015.03.015"
+    arxiv: "1410.6768"
+    zenodo_doi: null
+    url: "https://doi.org/10.1016/j.aop.2015.03.015"
+    pdf_url: "https://arxiv.org/pdf/1410.6768.pdf"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["Gribov horizon", "supersymmetry", "3D gauge theories", "ABJM"]
+
+  - id: amaral2014gribov
+    title: "N = 1 Gribov Superfield Extension"
+    authors: ["M. M. Amaral", "Y. E. Chifarelli", "V. E. R. Lemes"]
+    year: 2014
+    venue: "Journal of Physics A: Mathematical and Theoretical"
+    volume: "47"
+    issue: "7"
+    pages: "075401"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: false
+    doi: "10.1088/1751-8113/47/7/075401"
+    arxiv: "1310.8250"
+    zenodo_doi: null
+    url: "https://doi.org/10.1088/1751-8113/47/7/075401"
+    pdf_url: "https://arxiv.org/pdf/1310.8250.pdf"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["Gribov-Zwanziger", "superfield formalism", "N=1 supersymmetry"]
+
+  - id: amaral2014relational
+    title: "Some Remarks on Relational Nature of Gauge Symmetry"
+    authors: ["Marcelo M. Amaral"]
+    year: 2014
+    venue: "PhilSci-Archive"
+    pages: "10995"
+    type: preprint
+    status: preprint
+    category: "Philosophy, Theology, and Foundations of Physics"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://philsci-archive.pitt.edu/id/eprint/10995"
+    pdf_url: null
+    repo_url: null
+    project: "foundations"
+    keywords: ["gauge symmetry", "relationalism", "philosophy of physics"]
+
+  - id: amaral2013replica
+    title: "Landau Confining Replica Model from an Explicitly Breaking of a SU(3) Group Without Auxiliary Fields"
+    authors: ["M. M. Amaral", "M. A. L. Capri", "Y. E. Chifarelli", "V. E. R. Lemes"]
+    year: 2013
+    venue: "International Journal of Modern Physics A"
+    volume: "28"
+    issue: "31"
+    pages: "1350163"
+    type: peer-reviewed
+    status: published
+    category: "Quantum Field Theory and the Standard Model"
+    featured: false
+    doi: "10.1142/S0217751X13501637"
+    arxiv: "1303.2086"
+    zenodo_doi: null
+    url: "https://doi.org/10.1142/S0217751X13501637"
+    pdf_url: "https://arxiv.org/pdf/1303.2086.pdf"
+    repo_url: null
+    project: "gauge-theory"
+    keywords: ["Landau gauge", "SU(3)", "confinement", "replica model"]
+
+  - id: amaral2025qic_software
+    title: "Quasicrystal Inflation Code (QIC) — Python Algebraic Simulation Engine"
+    authors: ["Marcelo M. Amaral"]
+    year: 2025
+    venue: "GitHub Public Repository (MIT License)"
+    type: software
+    status: public-release
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://github.com/macielamaral/quasicrystal-inflation-code"
+    pdf_url: null
+    repo_url: "https://github.com/macielamaral/quasicrystal-inflation-code"
+    project: "quasicrystal-inflation-code"
+    keywords: ["open-source software", "Python", "Fibonacci anyons", "quasicrystal inflation"]
+
+  - id: amaral2025tiling_software
+    title: "Tiling Space Cosmology — E8 Quasicrystal Growth & Emergent Scaling Simulation Suite"
+    authors: ["Marcelo M. Amaral"]
+    year: 2025
+    venue: "GitHub Public Repository (MIT License)"
+    type: software
+    status: public-release
+    category: "Quantum Gravity and Cosmology"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://github.com/macielamaral/tiling-space-cosmology"
+    pdf_url: null
+    repo_url: "https://github.com/macielamaral/tiling-space-cosmology"
+    project: "tiling-space-cosmology"
+    keywords: ["open-source software", "Python", "E8 lattice", "quasicrystals", "cosmology"]
+
+  - id: amaral2026gaugebench
+    title: "GaugeBench — Verifiable Quantum Benchmarking with Content-Addressable Receipts"
+    authors: ["Marcelo M. Amaral"]
+    year: 2026
+    venue: "GitHub Public Repository"
+    type: software
+    status: public-release
+    category: "Topological Quantum Computing"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://github.com/macielamaral/gaugebench"
+    pdf_url: null
+    repo_url: "https://github.com/macielamaral/gaugebench"
+    project: "gaugebench"
+    keywords: ["quantum benchmarking", "verifiable computation", "QIC"]
+
+  - id: amaral2025e8clock
+    title: "E8 Cycle Clock Analysis — Stabilizer Subgroups in Spin(8)"
+    authors: ["Marcelo M. Amaral"]
+    year: 2025
+    venue: "GitHub Public Repository"
+    type: software
+    status: public-release
+    category: "Quantum Gravity and Cosmology"
+    featured: false
+    doi: null
+    arxiv: null
+    zenodo_doi: null
+    url: "https://github.com/macielamaral/E8-Cycle-Clock-Analysis"
+    pdf_url: null
+    repo_url: "https://github.com/macielamaral/E8-Cycle-Clock-Analysis"
+    project: "e8-cycle-clock"
+    keywords: ["E8 lattice", "Spin(8)", "Pati-Salam", "U(4)", "SU(2)"]

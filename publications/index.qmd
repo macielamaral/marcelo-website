@@ -1,0 +1,12 @@
+---
+title: "Publications & Software"
+description: "Scientific bibliography of Marcelo Maciel Amaral — peer-reviewed journal articles, preprints, Gauge Freedom Field Notes, essays, software, and BibTeX exports."
+---
+
+Journal articles, preprints, research notes, essays, and open-source software are grouped by publication type. **Gauge Freedom Field Notes** are preprints and research notes, not externally peer-reviewed journal articles.
+
+::: {.project-meta}
+**Machine-Readable Citation Export:** [Download Full Bibliography (`references.bib`)](references.bib) · **External Indices:** [Google Scholar](https://scholar.google.com/citations?user=5vlU_PcAAAAJ&hl=en) · [arXiv Author Search](https://arxiv.org/search/?query=Amaral%2C+Marcelo&searchtype=author) · [ResearchGate](https://www.researchgate.net/profile/Marcelo-Amaral-2)
+:::
+
+{{< include _by_type.md >}}

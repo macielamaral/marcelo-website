@@ -1,0 +1,42 @@
+---
+title: "Quantum Gravity & Cosmology"
+description: "Research in quasicrystalline spin foams, quantum groups at roots of unity, path-integral relational time, loop quantum cosmology, and emergent tiling-space cosmology."
+bibliography: ../../publications/references.bib
+---
+
+## Scientific Question & Motivation
+
+How do smooth relativistic spacetime and matter fields emerge from discrete quantum degrees of freedom without presupposing a fixed background manifold? In Loop Quantum Gravity (LQG) and spin-foam models, spatial geometry is encoded algebraically by $\mathrm{SU}(2)$ spin networks and their histories on 2-complexes. Yet generic combinatorial 2-complexes face severe continuum-limit ambiguities, ultraviolet divergences, and the classical and quantum **problem of time**.
+
+My quantum gravity research investigates three tightly linked avenues to address these challenges:
+
+1. **Relational Internal Clocks in Path Integrals:** Formulating reparametrization-invariant path integrals with local internal time choices and coherent transitions between clocks [@amaral2018time].
+2. **$q$-Deformed Spin Networks & Quasicrystalline Spin Foams:** Specializing state-sum amplitudes to $\mathrm{SU}(2)_q$ at roots of unity—especially the fifth root of unity $q = e^{2\pi i / 5}$, where representation fusion coincides with the Fibonacci category—and constraining the underlying 2-complex via cut-and-project model sets [@amaral2021statesum; @amaral2022fifthroot; @amaral2023qsf].
+3. **Tiling-Space & Quasiperiodic Cosmology:** Studying cosmological scale-factor dynamics induced by loop quantum gravity corrections [@amaral2017anamorphic], tiling-space cosmology [@amaral2024tiling], and discrete shell-by-shell projections of higher-dimensional lattices such as $E_8$ [@amaral2025tiling_software].
+
+## Mathematical Formulation Snapshot
+
+In cut-and-project quasicrystalline state-sum models, a higher-dimensional lattice $\Lambda \subset \mathbb{R}^D = E_{\parallel} \oplus E_{\perp}$ is projected onto physical space $E_{\parallel}$ whenever its internal-space projection $\pi_{\perp}(x)$ lies inside an acceptance window $W \subset E_{\perp}$:
+
+$$
+\mathcal{Q}(W) = \bigl\{\, \pi_{\parallel}(x) \;\big|\; x \in \Lambda,\; \pi_{\perp}(x) \in W \,\bigr\}.
+$$
+
+Decorating the Delaunay/Voronoi 2-complex of $\mathcal{Q}(W)$ with unitary representations of $\mathcal{U}_q(\mathfrak{su}(2))$ at $q = e^{2\pi i/(k+2)}$ gives finite representation sums in Turaev–Viro / Crane–Yetter-type models. At level $k = 3$ ($r = 5$, fifth root of unity), spins $j \in \{0, \tfrac{1}{2}, 1, \tfrac{3}{2}\}$ survive truncation, and the integer-spin sector obeys the Fibonacci fusion rule $1 \otimes 1 = 0 \oplus 1$ with quantum dimension $\operatorname{dim}_q(1) = \varphi = \frac{1+\sqrt{5}}{2}$ [@amaral2022fifthroot].
+
+## Living Projects in This Direction
+
+- **[Quasicrystalline Spin Foams & Quantum Gravity](../../projects/quasicrystalline-spin-foams.qmd)** — State-sum amplitudes, matter coupling on quasicrystalline 2-complexes, and problem-of-time foundations.
+- **[Tiling Space Cosmology](../../projects/tiling-space-cosmology.qmd)** — Preprint and open-source Python simulation suite testing the emergent $a(n) \asymp n^{5/6}$ scaling law from $E_8$ shell growth.
+- **[$E_8$ Cycle Clock Analysis](../../projects/e8-cycle-clock.qmd)** — Computational analysis of $\mathrm{Spin}(8)$ stabilizer subgroups on the 10-shell decomposition of the $E_8$ root lattice.
+
+## Key Publications
+
+- **[Quasicrystalline Spin Foam with Matter: Definitions and Examples](https://www.academia.edu/3064-979X/2/1/10.20935/AcadQuant7585)** — Marcelo Maciel Amaral, Richard Clawson, Klee Irwin (*Academia Quantum* 2(1), March 21, 2025). [Journal DOI](https://doi.org/10.20935/AcadQuant7585) · [arXiv:2306.01964](https://arxiv.org/abs/2306.01964).
+- **Tiling Spaces and the Expanding Universe: Bridging Quantum Mechanics and Cosmology** — M. M. Amaral, A. Yadav (*arXiv:2407.14520*, 2024).
+- **Quantum Gravity at the Fifth Root of Unity** — M. Amaral, R. Aschheim, K. Irwin (*Physics Open* 10, 100098, 2022).
+- **Geometric State Sum Models from Quasicrystals** — M. Amaral, F. Fang, D. Hammock, K. Irwin (*Foundations* 1(2), 155–168, 2021).
+- **A Path-Integral Approach to the Problem of Time** — M. M. Amaral, M. Bojowald (*Annals of Physics* 388, 241–266, 2018).
+- **Anamorphic Quasiperiodic Universes in Modified and Einstein Gravity with Loop Quantum Gravity Corrections** — M. M. Amaral et al. (*Classical and Quantum Gravity* 34, 185002, 2017).
+
+## References

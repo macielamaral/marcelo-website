@@ -1,0 +1,23 @@
+---
+title: "Hybrid Adaptive Networks: Memory, Prediction, and Energy Efficiency"
+description: "Postdoctoral research at Scripps College with Sarah Marzen on neural memory, prediction, adaptation, and energetic costs, connected to Hybrid-AI."
+---
+
+::: {.project-meta}
+**Research context:** Postdoctoral research at [Scripps College](https://www.scrippscollege.edu/) with [Professor Sarah Marzen](https://www.sarahmarzen.com/), connected to the [Hybrid-AI collaboration](https://hybrid-ai.umd.edu/).  
+**Status:** <span class="status-pill status-preliminary">Ongoing Research</span> First manuscript in preparation.
+:::
+
+## Motivation
+
+How do neural systems allocate memory and computational activity to predict changing environments, and what energetic costs accompany that prediction?
+
+This research investigates memory, prediction, and adaptation in neural architectures using information-theoretic analysis and computational models. A central objective is to understand how biological mechanisms can inform more energy-efficient artificial and hybrid neural systems.
+
+## Research Questions
+
+- How much information about the past is useful for predicting a changing environment?
+- How do continuous-time stochastic dynamics and spiking activity shape neural memory and adaptation?
+- What trade-offs connect predictive information, computational activity, and energy costs in biological, artificial, and hybrid neural architectures?
+
+[Energy-Efficient AI research →](../research/energy-efficient-ai/index.qmd)

@@ -1,0 +1,38 @@
+---
+title: "Gauge Theory & the Standard Model"
+description: "Yang-Mills theory, Cartan soft breakings, Gribov horizon and BRST quantization, complex Chern-Simons confinement, and Spin(8) root-system stabilizers."
+bibliography: ../../publications/references.bib
+---
+
+## Scientific Question & Motivation
+
+Non-abelian Yang–Mills gauge theories underpin the Standard Model of particle physics, yet their infrared, non-perturbative regime—color confinement and gauge-fixing ambiguities beyond perturbation theory—remains one of the deepest mathematical problems in quantum field theory. Simultaneously, understanding why nature selects compact gauge groups built from $\mathrm{SU}(2)$, $\mathrm{SU}(3)$, and $\mathrm{U}(1)$ motivates algebraic investigations into exceptional root lattices and spinorial stabilizers.
+
+My research in gauge theory spans two complementary tracks:
+
+1. **Infrared Yang–Mills, Gribov Copies & BRST Symmetry:** Extending the Gribov–Zwanziger confinement framework into $\mathcal{N}=1$ supersymmetric superfield formalisms in 4D and 3D ABJM-like theories [@amaral2014gribov; @amaral2015abjm], relating complex Chern–Simons actions to Gribov scenarios [@amaral2020chernsimons], and constructing background-equivariant BRST observables and $i$-particle propagators from auxiliary quartets in $\mathrm{SU}(3)$ Yang–Mills [@amaral2026brst].
+2. **Root-System Symmetries & Standard Model Subalgebras:** Analyzing discrete cycle-clock dynamics on the 240 roots of the $E_8$ lattice inside $\mathrm{Spin}(8)$ to isolate compact stabilizer Lie subalgebras ($\mathfrak{su}(3)$, $\mathfrak{u}(4)$, and $\mathfrak{su}(2)$) aligned with Standard Model and Pati–Salam embeddings [@amaral2025e8clock], alongside finite-group character models of quark and lepton mixing [@planat2020mixings].
+
+## Recent Publication: Cartan Soft Breakings
+
+**[Physical selection of Cartan soft breakings in a broken SU(3) Yang–Mills model](https://doi.org/10.1142/S0217751X26501794)**, with V. E. R. Lemes, is published in *International Journal of Modern Physics A* 41(31), 2650179 (2026) [@amaral2026cartan].
+
+We extend the model to a generic Cartan-valued source and study its propagators and composite correlators at quadratic and one-loop order. The work identifies a leading-order spectral selection criterion and presents a BRST-invariant spontaneous realization with algebraic renormalizability in Landau gauge. The spectral criterion does not constitute a nonperturbative determination of the physical spectrum.
+
+## Mathematical Snapshot: Gribov–Zwanziger Infrared Propagators
+
+Restricting the Euclidean Landau-gauge path integral ($\partial_\mu A_\mu^a = 0$) to the first Gribov region $\Omega = \{ A_\mu^a \mid \mathcal{M}^{ab}(A) = -\partial_\mu D_\mu^{ab} > 0 \}$ modifies the tree-level gluon propagator in the infrared through the Gribov mass parameter $\gamma$:
+
+$$
+\langle A_\mu^a(p)\, A_\nu^b(-p) \rangle = \delta^{ab} \left( \delta_{\mu\nu} - \frac{p_\mu p_\nu}{p^2} \right) \frac{p^2}{p^4 + \gamma^4},
+$$
+
+which decomposes into conjugate complex-mass **$i$-particle** poles at $p^2 = \pm i \gamma^2$, suppressing unphysical asymptotic gluon states while preserving ultraviolet asymptotic freedom as $p^2 \gg \gamma^2$ [@amaral2013replica; @amaral2014gribov; @amaral2026brst].
+
+## Living Projects & Related Essays
+
+- **[$E_8$ Cycle Clock Analysis](../../projects/e8-cycle-clock.qmd)** — Open-source computational verification of $C_5$ and $C_4$ clock stabilizers in $\mathrm{Spin}(8)$.
+- **Essay:** [SU(2): A Fundamental Building Block of Reality](../../2024/03/31/su2-a-fundamental-building-block-of-reality/index.qmd).
+- **Essay:** [The Unification Vision of Abdus Salam: Bridging Forces and Cultures in Physics](../../2023/11/30/the-unification-vision-of-abdus-salam-bridging-forces-and-cultures-in-physics/index.qmd).
+
+## References

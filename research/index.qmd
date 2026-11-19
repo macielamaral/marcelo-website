@@ -1,0 +1,91 @@
+---
+title: "Research"
+description: "Scientific research program of Marcelo Maciel Amaral across quantum gravity, topological quantum computing, gauge theory, quasicrystals, energy-efficient AI, and the foundations of physics."
+aliases:
+  - /about/index.html
+---
+
+My research investigates the universe's code-theoretic and geometric structure, spanning quantum gravity, non-abelian gauge theory, quasicrystalline spin foams, topological quantum computing, and energy-efficient computation. I focus on mathematical and computational models that unify physical law and information—paired wherever possible with open-source verification scripts.
+
+::: {.profile-links-bar}
+[Google Scholar](https://scholar.google.com/citations?user=5vlU_PcAAAAJ&hl=en)
+[ResearchGate](https://www.researchgate.net/profile/Marcelo-Amaral-2)
+[Wolfram Community](https://community.wolfram.com/web/mramaciel)
+[GitHub (@macielamaral)](https://github.com/macielamaral)
+:::
+
+## Research Directions
+
+:::: {.card-grid}
+::: {.lab-card}
+<div>
+[Planck Scale & Spin Foams]{.card-tag}
+
+### [Quantum Gravity & Cosmology](quantum-gravity/index.qmd)
+
+Quasicrystalline spin foams with matter, $\mathrm{SU}(2)_q$ at the fifth root of unity, relational path-integral clocks, loop quantum cosmology, and $E_8$ tiling-space expansion.
+</div>
+[Open Research Direction →](quantum-gravity/index.qmd)
+:::
+
+::: {.lab-card}
+<div>
+[Anyons & Aperiodic Qubits]{.card-tag}
+
+### [Topological Quantum Computing](quantum-computing/index.qmd)
+
+Fibonacci quasicrystal inflation codes, Temperley–Lieb braid operators, three-manifold and Fricke qubits, magic states, and GaugeBench verification.
+</div>
+[Open Research Direction →](quantum-computing/index.qmd)
+:::
+
+::: {.lab-card}
+<div>
+[Yang–Mills & Root Systems]{.card-tag}
+
+### [Gauge Theory & Standard Model](gauge-theory/index.qmd)
+
+Gribov horizon and superfield extensions, background-equivariant BRST observables in $\mathrm{SU}(3)$, complex Chern–Simons confinement, and $E_8/\mathrm{Spin}(8)$ stabilizers.
+</div>
+[Open Research Direction →](gauge-theory/index.qmd)
+:::
+
+::: {.lab-card}
+<div>
+[Sustainable Intelligence]{.card-tag}
+
+### [Energy-Efficient AI](energy-efficient-ai/index.qmd)
+
+Memory, prediction, and energetic costs in neural systems, including postdoctoral research with Sarah Marzen at Scripps College.
+</div>
+[Open Research Direction →](energy-efficient-ai/index.qmd)
+:::
+
+::: {.lab-card}
+<div>
+[Character Varieties & Codes]{.card-tag}
+
+### [Information Geometry & Codes](information-geometry/index.qmd)
+
+Statistical manifolds, nonlinear sigma models, $\mathrm{SL}(2,\mathbb{C})$ character varieties, and algebraic models of biological codes.
+</div>
+[Open Research Direction →](information-geometry/index.qmd)
+:::
+
+::: {.lab-card}
+<div>
+[Ontology & Open Science]{.card-tag}
+
+### [Foundations of Physics](foundations/index.qmd)
+
+Relational gauge symmetry, code-theoretic reality, the self-simulation hypothesis, and philosophical foundations of open-source science.
+</div>
+[Open Research Direction →](foundations/index.qmd)
+:::
+::::
+
+## Curated Bibliography by Research Theme
+
+For publications grouped by type (peer-reviewed journal papers, preprints, research notes, reports, and open-source software) or BibTeX citations, visit the [Publications](../publications/index.qmd) page.
+
+{{< include ../publications/_by_category.md >}}

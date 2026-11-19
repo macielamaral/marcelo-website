@@ -1,0 +1,25 @@
+---
+title: "Energy-Efficient Artificial Intelligence"
+description: "Neural memory, prediction, and energy efficiency: postdoctoral research with Sarah Marzen at Scripps College and related independent AI research."
+bibliography: ../../publications/references.bib
+---
+
+## Memory, Prediction & Energy Costs
+
+Neural systems must learn and predict under limits on memory, activity, and energy. I use information theory and computational models to investigate how these constraints shape biological adaptation and how they can inform artificial and hybrid neural architectures.
+
+Since 2026, I have been a postdoctoral researcher at [Scripps College](https://www.scrippscollege.edu/), working with [Professor Sarah Marzen](https://www.sarahmarzen.com/) on memory, prediction, and energy efficiency in neural systems. This work contributes to the [Hybrid-AI collaboration](https://hybrid-ai.umd.edu/), which includes the University of Maryland and investigates hybrid artificial–living neural networks for learning and prediction.
+
+## Current Academic Research
+
+The project examines predictive information in continuous-time stochastic processes, memory and adaptation in spiking neural networks, and the energetic costs of neural computation. Biological mechanisms provide a starting point for asking how computational resources can be used more efficiently.
+
+**[Hybrid Adaptive Networks](../../projects/hybrid-adaptive-networks.qmd)** is ongoing research with Sarah Marzen's group. The first manuscript is in preparation.
+
+## Related Independent AI Research
+
+With Raymond Aschheim, I co-authored **The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI** [@amaral2025lockin]. This 2025 preprint proposes a transition toward more stable goals and behavior in language models, develops measures of consolidation, and reports model-dependent experiments. Its proposed connection to AGI remains a hypothesis. This work is separate from my Scripps postdoctoral project.
+
+For corporate research and consulting in AI and quantum computing, see [Gauge Freedom](../../venture/index.qmd).
+
+## References

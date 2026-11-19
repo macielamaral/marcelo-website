@@ -1,0 +1,67 @@
+projects:
+  - id: quasicrystal-inflation-code
+    title: "Aperiodic Topological Quantum Computing & Quasicrystal Inflation Codes"
+    domain: "Quantum Computing"
+    status: "Active — Preprint & Open-Source Code"
+    epistemic_tier: "preprint-and-verified-code"
+    page: "/projects/quasicrystal-inflation-code.html"
+    repo_url: "https://github.com/macielamaral/quasicrystal-inflation-code"
+    zenodo_doi: null
+    publications: ["amaral2025qic", "amaral2022anyonic", "amaral2025qic_software"]
+    summary: "Encoding Fibonacci anyon fusion spaces and Temperley-Lieb braiding representations inside constrained 1D qubit chains governed by Fibonacci quasicrystal inflation rules."
+
+  - id: quasicrystalline-spin-foams
+    title: "Quasicrystalline Spin Foams & Quantum Gravity"
+    domain: "Quantum Gravity"
+    status: "Active — Peer-Reviewed Publications"
+    epistemic_tier: "peer-reviewed"
+    page: "/projects/quasicrystalline-spin-foams.html"
+    repo_url: null
+    zenodo_doi: null
+    publications: ["amaral2023qsf", "amaral2022fifthroot", "amaral2021statesum", "amaral2021modelsets", "amaral2018time"]
+    summary: "State-sum and spin-foam models of discrete quantum spacetime built on cut-and-project quasicrystals, q-deformed SU(2) at the fifth root of unity, and relational internal clocks."
+
+  - id: tiling-space-cosmology
+    title: "Tiling Space Cosmology & Emergent Scaling"
+    domain: "Quantum Gravity"
+    status: "Active — Preprint & Numerical Simulation Suite"
+    epistemic_tier: "preprint-and-verified-code"
+    page: "/projects/tiling-space-cosmology.html"
+    repo_url: "https://github.com/macielamaral/tiling-space-cosmology"
+    zenodo_doi: null
+    publications: ["amaral2024tiling", "amaral2017anamorphic"]
+    summary: "Bridging microscopic quasicrystal growth and cosmic expansion via shell-by-shell projections of the E8 lattice and quasiperiodic solutions in loop quantum cosmology."
+
+  - id: e8-cycle-clock
+    title: "E8 Cycle Clock & Spin(8) Stabilizer Symmetries"
+    domain: "Gauge Theory & Quantum Gravity"
+    status: "Active — Open-Source Computational Verification"
+    epistemic_tier: "verified-computational-code"
+    page: "/projects/e8-cycle-clock.html"
+    repo_url: "https://github.com/macielamaral/E8-Cycle-Clock-Analysis"
+    zenodo_doi: null
+    publications: ["amaral2025e8clock", "amaral2026brst", "amaral2020chernsimons"]
+    summary: "Computational analysis of procedural cycle clocks on the 10-shell decomposition of the E8 root lattice and their Spin(8) stabilizer subalgebras su(3), u(4), and su(2)."
+
+  - id: gaugebench
+    title: "GaugeBench — Verifiable Quantum Benchmarking"
+    domain: "Quantum Computing"
+    status: "Active — Public Repository"
+    epistemic_tier: "public-software"
+    page: "/projects/gaugebench.html"
+    repo_url: "https://github.com/macielamaral/gaugebench"
+    zenodo_doi: null
+    publications: ["amaral2026gaugebench", "amaral2025qic"]
+    summary: "Benchmark suites wrapping gate-based (QIC) and annealing physics engines with cryptographically verifiable Content-Addressable Receipts (CARs)."
+
+  - id: hybrid-adaptive-networks
+    title: "Hybrid Adaptive Networks: Memory, Prediction, and Energy Efficiency"
+    domain: "Energy-Efficient AI"
+    status: "Ongoing Research — First Manuscript in Preparation"
+    epistemic_tier: "preliminary-investigation"
+    research_context: "Postdoctoral research at Scripps College with Professor Sarah Marzen; connected to the Hybrid-AI collaboration."
+    page: "/projects/hybrid-adaptive-networks.html"
+    repo_url: null
+    zenodo_doi: null
+    publications: []
+    summary: "Information-theoretic analysis and computational models of memory, prediction, adaptation, and energetic costs in neural architectures."

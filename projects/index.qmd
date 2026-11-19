@@ -1,0 +1,79 @@
+---
+title: "Living Research Projects"
+description: "Active scientific projects, open-source simulation suites, and exploratory research programs by Marcelo Maciel Amaral."
+---
+
+Each project page below serves as a living scientific record connecting theoretical questions, mathematical formulations, peer-reviewed papers and preprints, open-source GitHub repositories, and current epistemic status.
+
+:::: {.card-grid}
+::: {.lab-card}
+<div>
+<span class="status-pill status-verified">Preprint + MIT Code</span>
+
+### [Quasicrystal Inflation Code (QIC)](quasicrystal-inflation-code.qmd)
+
+Simulating Fibonacci anyon fusion and Temperley–Lieb braiding inside constrained 1D qubit chains (`arXiv:2506.21643`).
+</div>
+[Open Project →](quasicrystal-inflation-code.qmd)
+:::
+
+::: {.lab-card}
+<div>
+<span class="status-pill status-verified">Peer-Reviewed Publications</span>
+
+### [Quasicrystalline Spin Foams](quasicrystalline-spin-foams.qmd)
+
+State-sum quantum gravity amplitudes over cut-and-project quasicrystals, $\mathrm{SU}(2)_q$ at the fifth root of unity, and matter coupling.
+</div>
+[Open Project →](quasicrystalline-spin-foams.qmd)
+:::
+
+::: {.lab-card}
+<div>
+<span class="status-pill status-verified">Preprint + Simulation Suite</span>
+
+### [Tiling Space Cosmology](tiling-space-cosmology.qmd)
+
+Emergent cosmological scaling $a(n) \asymp n^{5/6}$ derived and numerically tested from shell-by-shell $E_8$ quasicrystal growth (`arXiv:2407.14520`).
+</div>
+[Open Project →](tiling-space-cosmology.qmd)
+:::
+
+::: {.lab-card}
+<div>
+<span class="status-pill status-verified">Open-Source Verification</span>
+
+### [$E_8$ Cycle Clock Analysis](e8-cycle-clock.qmd)
+
+Procedural $C_5$ and $C_4$ clock dynamics on the 10-shell decomposition of $E_8$ isolating $\mathfrak{su}(3)$, $\mathfrak{u}(4)$, and $\mathfrak{su}(2)$ stabilizers in $\mathrm{Spin}(8)$.
+</div>
+[Open Project →](e8-cycle-clock.qmd)
+:::
+
+::: {.lab-card}
+<div>
+<span class="status-pill status-verified">Public Software</span>
+
+### [GaugeBench](gaugebench.qmd)
+
+Verifiable quantum benchmarking wrapping gate-based (QIC) and annealing physics engines with Content-Addressable Receipts (CARs).
+</div>
+[Open Project →](gaugebench.qmd)
+:::
+
+::: {.lab-card}
+<div>
+<span class="status-pill status-preliminary">Manuscript in Preparation</span>
+
+### [Hybrid Adaptive Networks](hybrid-adaptive-networks.qmd)
+
+Postdoctoral research at Scripps College with Sarah Marzen on neural memory, prediction, adaptation, and energy efficiency.
+</div>
+[Open Project →](hybrid-adaptive-networks.qmd)
+:::
+::::
+
+## Additional Public Repositories
+
+- **[computational_essays](https://github.com/macielamaral/computational_essays)** — Jupyter notebooks accompanying computational essays in Python (including arXiv `hep-th` / `gr-qc` licensing analysis).
+- **[chatgpt-retrieval-plugin-milvus-transformer](https://github.com/macielamaral/chatgpt-retrieval-plugin-milvus-transformer)** — Open-model `sentence-transformers` + Milvus vector retrieval server tailored for quantum gravity literature.

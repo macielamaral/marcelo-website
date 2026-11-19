@@ -1,0 +1,111 @@
+project:
+  type: website
+  output-dir: _site
+  post-render:
+    - scripts/upgrade_redirects.py
+  render:
+    - "*.qmd"
+    - "!private/**"
+    - "!config/**"
+    - "!notes/_template.qmd"
+    - "!AGENTS.md"
+    - "!README.md"
+    - "!STATUS.md"
+    - "!NEXT.md"
+    - "!docs/**"
+  resources:
+    - "robots.txt"
+    - "publications/references.bib"
+    - "assets/images/**"
+    - "assets/media/**"
+    - "!private/**"
+    - "!config/**"
+
+website:
+  title: "Marcelo Maciel Amaral"
+  site-url: "https://macielamaral.github.io/marcelo-website"
+  repo-url: "https://github.com/macielamaral/marcelo-website"
+  description: "Quantum gravity research, topological quantum computing, quasicrystals, gauge theory, energy-efficient AI, and open-sourcing the code of reality."
+  favicon: "assets/images/site-icon.png"
+  search:
+    location: navbar
+    type: overlay
+  open-graph:
+    locale: en_US
+    site-name: "Marcelo Maciel Amaral — Scientific Research Hub"
+    image: "assets/images/bio/marcelo-amaral.jpg"
+  twitter-card:
+    creator: "@Amaral12358"
+    card-style: summary_large_image
+    image: "assets/images/bio/marcelo-amaral.jpg"
+  navbar:
+    pinned: true
+    title: "M. M. Amaral"
+    left:
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Notes"
+        href: notes/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Venture"
+        href: venture/index.qmd
+      - text: "Bio"
+        href: bio/index.qmd
+      - text: "Creative"
+        href: creator/index.qmd
+      - text: "Contact"
+        href: contact/index.qmd
+    right:
+      - icon: github
+        href: "https://github.com/macielamaral"
+        aria-label: "GitHub profile of Marcelo Maciel Amaral"
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=5vlU_PcAAAAJ&hl=en"
+        aria-label: "Google Scholar profile"
+      - icon: rss
+        href: blog/index.xml
+        aria-label: "Blog RSS Feed"
+  page-footer:
+    border: true
+    left: |
+      **Marcelo Maciel Amaral** · Theoretical Physicist · Research Scientist · Founder · *Love and Reason — Open-sourcing the code of reality*
+    center: |
+      [Research](/research/index.qmd) · [Publications](/publications/index.qmd) · [Projects](/projects/index.qmd) · [Consulting](/consulting-services/index.qmd) · [Books](/books/index.qmd) · [Privacy](/privacy-policy/index.qmd)
+    right:
+      - icon: github
+        href: "https://github.com/macielamaral"
+        aria-label: "GitHub"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/marcelo-maciel-amaral-344842162/"
+        aria-label: "LinkedIn"
+      - icon: twitter-x
+        href: "https://twitter.com/Amaral12358"
+        aria-label: "X (Twitter)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/styles.scss
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    anchor-sections: true
+    canonical-url: true
+    link-external-newwindow: false
+    html-math-method: mathjax
+    fig-responsive: true
+    code-copy: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+
+execute:
+  freeze: auto

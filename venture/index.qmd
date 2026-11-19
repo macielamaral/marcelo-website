@@ -1,0 +1,14 @@
+---
+title: "Venture"
+description: "Gauge Freedom, Inc. — research, scientific software, collaboration, and consulting in energy-efficient AI, quantum computing, and verifiable computation."
+---
+
+## Gauge Freedom, Inc.
+
+[Gauge Freedom](https://www.gaugefreedom.com/) is a research-driven technology company I co-founded in 2025 to connect fundamental science with practical computational innovation. A California benefit corporation, its interests include energy-efficient artificial intelligence, quantum computing, verifiable AI systems, and open scientific software, drawing on mathematical physics and information theory.
+
+We welcome collaborations and consulting opportunities in scientific modeling and advanced computational methods, particularly energy-efficient AI and quantum computing.
+
+[Visit Gauge Freedom →](https://www.gaugefreedom.com/) · [Consulting & Collaboration](../consulting-services/index.qmd) · [Contact](../contact/index.qmd)
+
+I also serve as Co-Editor-in-Chief of [Gauge Freedom Journal](https://www.gaugefreedom.org/), supporting open and reproducible scientific publishing.

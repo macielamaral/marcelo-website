@@ -1,0 +1,69 @@
+---
+title: "Article Title: Concise Scientific Statement"
+subtitle: "Structured Technical Summary & Reproducible Evidence"
+author:
+  - name: "Marcelo Maciel Amaral"
+    url: "https://www.marcelomacielamaral.com/"
+date: "2026-01-01"
+description: "One-sentence summary stating the scientific problem, method, and verified scope."
+categories: ["Science", "Quantum Gravity", "Code"]
+bibliography: ../../publications/references.bib
+citation:
+  type: article
+  url: "https://www.marcelomacielamaral.com/notes/example-slug/"
+format:
+  html: default
+  typst:
+    toc: false
+    papersize: us-letter
+---
+
+::: {.project-meta}
+**Epistemic Status:** `preprint` | `peer-reviewed` | `research-note`  
+**Associated Project:** [Project Title](../../projects/index.qmd)  
+**Source Repository:** `https://github.com/macielamaral/<repo>` (Commit `<sha>`)  
+**DOI / arXiv:** `Pending` or verified identifier
+:::
+
+## Abstract
+
+State the physical/mathematical question, formal framework, and main verified conclusions without unsupported extrapolation.
+
+## 1. Motivation & Problem Statement
+
+Introduce the theoretical context and cite relevant literature [@amaral2025qic].
+
+## 2. Mathematical Formulation
+
+::: {#def-example}
+### Model Space
+Define Hilbert spaces, groups, or geometric objects explicitly:
+
+$$
+\mathcal{H} = \bigoplus_{k} \mathcal{H}_k.
+$$
+:::
+
+::: {#thm-example}
+### Main Structural Relation
+State proved or computationally verified identities clearly, specifying domain assumptions and boundary cases.
+:::
+
+## 3. Computational Verification & Figures
+
+| Parameter $n$ | Dimension | Verified Invariant |
+|:---:|:---:|:---:|
+| 1 | 2 | Exact |
+| 2 | 3 | Exact |
+
+: Summary of verified small-$n$ boundary cases. {#tbl-verification}
+
+```python
+# Minimal reproducible snippet linked to pinned public repository
+```
+
+## 4. Reproducibility & Limitations
+
+Document exact Python/environment versions, script entrypoints in the public repository, and open theoretical questions.
+
+## References

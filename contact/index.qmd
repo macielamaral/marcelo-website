@@ -1,0 +1,25 @@
+---
+title: "Contact"
+description: "Connect with Marcelo Maciel Amaral for scientific collaboration, open-source projects, consulting, and venture inquiries."
+---
+
+Whether you are interested in scientific collaboration on quantum gravity, gauge theory, quasicrystals, and topological quantum computing, or exploring sustainable computation and venture partnerships, let's connect.
+
+## Primary Direct Channels
+
+- **LinkedIn:** [Marcelo Maciel Amaral](https://www.linkedin.com/in/marcelo-maciel-amaral-344842162/)
+- **X (formerly Twitter):** [@Amaral12358](https://twitter.com/Amaral12358)
+- **GitHub:** [github.com/macielamaral](https://github.com/macielamaral)
+
+## Academic & Scientific Profiles
+
+- **Google Scholar:** [Marcelo Maciel Amaral — Citations & Bibliography](https://scholar.google.com/citations?user=5vlU_PcAAAAJ&hl=en)
+- **ResearchGate:** [Marcelo-Amaral-2](https://www.researchgate.net/profile/Marcelo-Amaral-2)
+- **Wolfram Community:** [mramaciel](https://community.wolfram.com/web/mramaciel)
+
+## Writing, Social & Advisory
+
+- **Medium:** [@marcelomacielamaral](https://medium.com/@marcelomacielamaral/)
+- **Instagram:** [@marcelomacielamaral](https://www.instagram.com/marcelomacielamaral/)
+- **Facebook:** [Public Profile](https://www.facebook.com/profile.php?id=61559319246818)
+- **Scientific Consulting & Lectures:** [Consulting Services Overview](../consulting-services/index.qmd)
