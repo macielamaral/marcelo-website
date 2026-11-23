@@ -484,3 +484,7 @@ blockquote {
     font-size: 1.95rem;
   }
 }
+
+.quarto-listing .thumbnail img[src$="ai-stewardship-research-credit.png"] {
+  object-fit: contain;
+}

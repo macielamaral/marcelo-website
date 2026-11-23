@@ -1,6 +1,8 @@
 # GitHub Pages Deployment & Custom Domain Cutover Guide
 
-The website is initially configured for safe previewing on **GitHub Pages** at a project subpath before any DNS cutover of `www.marcelomacielamaral.com`.
+As verified on November 22, 2026, the website is live at **https://marcelomacielamaral.com/** using GitHub Actions deployment. The GitHub Pages project URL and `www` domain redirect to that address. `_quarto.yml` and `robots.txt` use the active domain.
+
+For routine publishing, build and validate locally, review the public diff, and push to `main` when authorized; the existing workflow deploys the site. The steps below document the original migration and are not pending setup tasks. No DNS or hosting changes are needed to publish an article.
 
 ---
 

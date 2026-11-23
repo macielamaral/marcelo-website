@@ -1,6 +1,6 @@
 # Marcelo Maciel Amaral — Scientific Research Website
 
-Git-native **Quarto + GitHub Pages** research website for **Marcelo Maciel Amaral** (`www.marcelomacielamaral.com`), theoretical physicist, research scientist, and founder of Gauge Freedom, Inc.
+Git-native **Quarto + GitHub Pages** research website for **Marcelo Maciel Amaral** (`marcelomacielamaral.com`), theoretical physicist, research scientist, and founder of Gauge Freedom, Inc.
 
 > *Love and Reason — Open-sourcing the code of reality.*
 
@@ -17,11 +17,11 @@ Git-native **Quarto + GitHub Pages** research website for **Marcelo Maciel Amara
 | `publications/` | Structured bibliography (`references.bib`), auto-generated views, and full HTML + Typst PDF articles (`publications/articles/`) |
 | `projects/` | Living research & open-source software records backed by `data/projects.yml` |
 | `notes/` | Technical notes, computational essays, and reusable agent template (`notes/_template.qmd`) |
-| `blog/`, `2023/`–`2026/`, `category/` | Blog index (`/blog/` + RSS `/blog/index.xml`), all 14 historical essays retained at their exact WordPress `/YYYY/MM/DD/<slug>/` permalinks, and `/category/{science,code,culture,open-sourcing}/` archive pages |
+| `blog/`, `2023/`–`2026/`, `category/` | Blog index (`/blog/` + RSS `/blog/index.xml`), new dated essays plus all 14 historical essays retained at their exact WordPress `/YYYY/MM/DD/<slug>/` permalinks, and `/category/{science,code,culture,open-sourcing}/` archive pages |
 | `venture/`, `bio/`, `creator/`, `books/`, `consulting-services/`, `contact/`, `privacy-policy/` | Venture, biography, music and books (`/gpts/` noindex redirect to `/creator/`), consulting, contact, and static-site privacy policy |
 | `data/` | `publications.yml`, `projects.yml`, `migration-inventory.yml`, and `schemas/agent-submission.schema.json` |
 | `scripts/` | `build_publications.py`, `upgrade_redirects.py`, `validate_site.py`, `import_research_update.py`, and `link_zenodo.py` |
-| `config/custom-domain/` | Staged (inactive) `CNAME` and `robots.txt` templates for future `www.marcelomacielamaral.com` DNS cutover |
+| `config/custom-domain/` | Staged (inactive) `CNAME` and `robots.txt` templates retained as migration references |
 | `docs/` | `design-system.md`, `migration-report.md`, `zenodo-workflow.md`, and `deployment-and-domain.md` |
 | `AGENTS.md`, `STATUS.md`, `NEXT.md` | Agent governance policy and Shared Memory Protocol state |
 
@@ -85,4 +85,4 @@ python3 scripts/import_research_update.py path/to/manifest.json
 
 ### Deploy to GitHub Pages & Custom Domain Cutover
 - Automatic build, validation, and GitHub Pages deployment are configured in `.github/workflows/publish.yml`.
-- Follow `docs/deployment-and-domain.md` for initial preview activation at `https://macielamaral.github.io/marcelo-website/` and future DNS cutover of `www.marcelomacielamaral.com` without disrupting DreamHost email.
+- The live canonical site is `https://marcelomacielamaral.com/`; the GitHub Pages preview and `www` addresses redirect there. `docs/deployment-and-domain.md` retains the original migration procedure for reference. Routine publishing requires no DNS changes.

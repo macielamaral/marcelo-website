@@ -23,7 +23,7 @@ project:
 
 website:
   title: "Marcelo Maciel Amaral"
-  site-url: "https://macielamaral.github.io/marcelo-website"
+  site-url: "https://marcelomacielamaral.com"
   repo-url: "https://github.com/macielamaral/marcelo-website"
   description: "Quantum gravity research, topological quantum computing, quasicrystals, gauge theory, energy-efficient AI, and open-sourcing the code of reality."
   favicon: "assets/images/site-icon.png"

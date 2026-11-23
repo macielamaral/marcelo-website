@@ -21,11 +21,11 @@ include-in-header:
       "@graph": [
         {
           "@type": "Person",
-          "@id": "https://www.marcelomacielamaral.com/#person",
+          "@id": "https://marcelomacielamaral.com/#person",
           "name": "Marcelo Maciel Amaral",
           "alternateName": "Marcelo M. Amaral",
           "jobTitle": "Theoretical Physicist, Research Scientist, and Founder",
-          "url": "https://www.marcelomacielamaral.com/",
+          "url": "https://marcelomacielamaral.com/",
           "knowsAbout": [
             "Quantum Gravity",
             "Loop Quantum Gravity",
@@ -49,11 +49,11 @@ include-in-header:
         },
         {
           "@type": "WebSite",
-          "@id": "https://www.marcelomacielamaral.com/#website",
-          "url": "https://www.marcelomacielamaral.com/",
+          "@id": "https://marcelomacielamaral.com/#website",
+          "url": "https://marcelomacielamaral.com/",
           "name": "Marcelo Maciel Amaral — Scientific Research Hub",
           "description": "Quantum gravity research, topological quantum computing, gauge theory, aperiodic structures, and open-sourcing the code of reality.",
-          "publisher": { "@id": "https://www.marcelomacielamaral.com/#person" }
+          "publisher": { "@id": "https://marcelomacielamaral.com/#person" }
         }
       ]
     }
