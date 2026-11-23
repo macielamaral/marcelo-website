@@ -7,20 +7,27 @@ categories:
 - Science
 - AI Stewardship
 date: '2026-11-22'
-image: ../../../../assets/images/blog/ai-stewardship-research-credit.png
-image-alt: 'Square editorial graphic on a cream background, headed “A proposal for research credit.” Three large
-  lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name
-  the people who direct, verify, and take responsibility for AI-assisted research.” Footer: Marcelo Maciel Amaral,
-  marcelomacielamaral.com.'
+image: ../../../../assets/images/blog/ai-stewardship-research-credit-web.png
+image-alt: 'Editorial graphic on a cream background, headed “A proposal for research credit.” Three large lines
+  read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name the
+  people who direct, verify, and take responsibility for AI-assisted research.”'
 open-graph:
   title: AI Stewardship Belongs in Author Contribution Statements
   image: ../../../../assets/images/blog/ai-stewardship-research-credit.png
   image-width: 1254
   image-height: 1254
+  image-alt: 'Square editorial graphic on a cream background, headed “A proposal for research credit.” Three large
+    lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name
+    the people who direct, verify, and take responsibility for AI-assisted research.” Footer: Marcelo Maciel Amaral,
+    marcelomacielamaral.com.'
 twitter-card:
   title: AI Stewardship Belongs in Author Contribution Statements
   image: ../../../../assets/images/blog/ai-stewardship-research-credit.png
   card-style: summary
+  image-alt: 'Square editorial graphic on a cream background, headed “A proposal for research credit.” Three large
+    lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name
+    the people who direct, verify, and take responsibility for AI-assisted research.” Footer: Marcelo Maciel Amaral,
+    marcelomacielamaral.com.'
 header-includes: <meta name="robots" content="index, follow, max-image-preview:large">
 include-after-body:
   text: |
@@ -46,10 +53,10 @@ include-after-body:
       "dateModified": "2026-11-22",
       "image": {
         "@type": "ImageObject",
-        "url": "https://marcelomacielamaral.com/assets/images/blog/ai-stewardship-research-credit.png",
-        "width": 1254,
-        "height": 1254,
-        "caption": "Square editorial graphic on a cream background, headed “A proposal for research credit.” Three large lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name the people who direct, verify, and take responsibility for AI-assisted research.” Footer: Marcelo Maciel Amaral, marcelomacielamaral.com."
+        "url": "https://marcelomacielamaral.com/assets/images/blog/ai-stewardship-research-credit-web.png",
+        "width": 1402,
+        "height": 1122,
+        "caption": "Editorial graphic on a cream background, headed “A proposal for research credit.” Three large lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name the people who direct, verify, and take responsibility for AI-assisted research.”"
       },
       "articleSection": [
         "Science",
@@ -64,7 +71,7 @@ include-after-body:
 
 I want to see those three terms together in research papers. Directing and checking AI-assisted work can be a substantive research contribution. We should name and credit it.
 
-![](../../../../assets/images/blog/ai-stewardship-research-credit.png){fig-alt="Square editorial graphic on a cream background, headed “A proposal for research credit.” Three large lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name the people who direct, verify, and take responsibility for AI-assisted research.” Footer: Marcelo Maciel Amaral, marcelomacielamaral.com." width=640}
+![](../../../../assets/images/blog/ai-stewardship-research-credit-web.png){fig-alt="Editorial graphic on a cream background, headed “A proposal for research credit.” Three large lines read “Conceptualization. AI Stewardship. Methodology.” AI Stewardship is highlighted in teal. Below: “Name the people who direct, verify, and take responsibility for AI-assisted research.”" width=640}
 
 When AI systems write code, analyze data, or explore an argument, the model’s name tells readers which system was used. It leaves open who designed the assignments, checked the results, resolved disagreements, and decided what the paper could claim. A researcher who identifies an unsupported assumption and helps narrow a claim has shaped the paper, even if readers never see the version that was rejected.
 

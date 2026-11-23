@@ -1,7 +1,7 @@
 # Short-Term Roadmap (`NEXT.md`)
 
 ## 1. Search Discovery & Editorial Review
-- [ ] When Search Console access is available, verify the live domain property, submit `https://marcelomacielamaral.com/sitemap.xml`, and inspect indexing of the AI Stewardship essay. Deployment and crawlability checks do not establish search indexing.
+- [ ] When Search Console access is available, verify the live domain property, submit `https://marcelomacielamaral.com/sitemap.xml`, and inspect indexing and image previews of the AI Stewardship essay. Deployment and crawlability checks do not establish search indexing.
 - [ ] Optional editorial review of historical GPT references, preserved unchanged: [Universal Family Benefit (2023-09-29)](2023/09/29/universal-love-based-child-care-universal-family-benefit-ufb-foundations-of-our-future/index.qmd) credits/discusses GPT-4; [Paul Dirac (2023-10-07)](2023/10/07/the-quantum-legacy-of-paul-dirac-spin-antimatter-and-the-evolution-of-the-scientific-method/index.qmd) credits ChatGPT editorial assistance; [Meta-Coding Theory (2023-10-24)](2023/10/24/meta-coding-theory-on-the-unification-of-information-systems/index.qmd) discusses GPT collaboration and translation.
 
 ## 2. Scientific Content & Persistent Identifiers
