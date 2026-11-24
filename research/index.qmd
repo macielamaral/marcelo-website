@@ -1,11 +1,13 @@
 ---
 title: "Research"
-description: "Scientific research program of Marcelo Maciel Amaral across quantum gravity, topological quantum computing, gauge theory, quasicrystals, energy-efficient AI, and the foundations of physics."
+description: "Marcelo Maciel Amaral's research in quantum gravity, quantum computing, gauge theory, information geometry, energy-efficient AI, and the Riemann Hypothesis."
 aliases:
   - /about/index.html
 ---
 
 My research investigates the universe's code-theoretic and geometric structure, spanning quantum gravity, non-abelian gauge theory, quasicrystalline spin foams, topological quantum computing, and energy-efficient computation. I focus on mathematical and computational models that unify physical law and information—paired wherever possible with open-source verification scripts.
+
+An independent direction connects the Riemann Hypothesis with prime-power sums, Fibonacci geometry, and adelic arithmetic.
 
 ::: {.profile-links-bar}
 [Google Scholar](https://scholar.google.com/citations?user=5vlU_PcAAAAJ&hl=en)
@@ -81,6 +83,17 @@ Statistical manifolds, nonlinear sigma models, $\mathrm{SL}(2,\mathbb{C})$ chara
 Relational gauge symmetry, code-theoretic reality, the self-simulation hypothesis, and philosophical foundations of open-source science.
 </div>
 [Open Research Direction →](foundations/index.qmd)
+:::
+
+::: {.lab-card}
+<div>
+[Prime Powers & Aperiodic Geometry]{.card-tag}
+
+### [Riemann Hypothesis & Arithmetic Geometry](riemann-hypothesis/index.qmd)
+
+Prime-power ramps, Fibonacci windows, zeta statistics, and a sampled criterion for critical-line zeros. The independent cancellation estimate remains open.
+</div>
+[Open Research Direction →](riemann-hypothesis/index.qmd)
 :::
 ::::
 

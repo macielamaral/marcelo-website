@@ -413,6 +413,21 @@ International Journal of Modern Physics A, 28(31), 1350163 (2013)
 
 ::: {.pub-item}
 ::: {.pub-title}
+[Fibonacci Cut-and-Project Interval Partitions: Geometry, Entropy, and Shell Estimates](https://zenodo.org/doi/10.5281/zenodo.24457170)
+:::
+::: {.pub-authors}
+Marcelo Amaral
+:::
+::: {.pub-venue}
+Zenodo (November 23, 2026)
+:::
+::: {.pub-links}
+<span class="status-pill status-preprint">Preprint</span> [DOI: 10.5281/zenodo.24457170](https://doi.org/10.5281/zenodo.24457170) [PDF](https://zenodo.org/records/24457170/files/fibonacci-partition-geometry-entropy.pdf?download=1)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
 [Tiling Spaces and the Expanding Universe: Bridging Quantum Mechanics and Cosmology](https://arxiv.org/abs/2407.14520)
 :::
 ::: {.pub-authors}
@@ -537,6 +552,21 @@ Symmetry, 12(12), 1993 (2020)
 
 ::: {.pub-item}
 ::: {.pub-title}
+[Critical Scaling and the Levy Correction Field of the Zeta Gibbs Sector](https://zenodo.org/doi/10.5281/zenodo.24457284)
+:::
+::: {.pub-authors}
+Marcelo Amaral
+:::
+::: {.pub-venue}
+Zenodo (November 23, 2026)
+:::
+::: {.pub-links}
+<span class="status-pill status-preprint">Preprint</span> [DOI: 10.5281/zenodo.24457284](https://doi.org/10.5281/zenodo.24457284) [PDF](https://zenodo.org/records/24457284/files/prime-log-critical-scaling.pdf?download=1)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
 [Nonlinear Sigma Models on Statistical Manifolds: Equations of Motion](https://www.gaugefreedom.com/sigma-models-on-statistical-manifolds-equations-of-motion/)
 :::
 ::: {.pub-authors}
@@ -564,6 +594,53 @@ arXiv Preprint (October 23, 2025)
 :::
 ::: {.pub-links}
 <span class="status-pill status-preprint">Preprint</span> [DOI: 10.48550/arXiv.2510.20190](https://doi.org/10.48550/arXiv.2510.20190) [arXiv:2510.20190](https://arxiv.org/abs/2510.20190) [PDF](https://arxiv.org/pdf/2510.20190)
+:::
+:::
+
+### Riemann Hypothesis and Arithmetic Geometry
+
+::: {.pub-item}
+::: {.pub-title}
+[Critical Scaling and the Levy Correction Field of the Zeta Gibbs Sector](https://zenodo.org/doi/10.5281/zenodo.24457284)
+:::
+::: {.pub-authors}
+Marcelo Amaral
+:::
+::: {.pub-venue}
+Zenodo (November 23, 2026)
+:::
+::: {.pub-links}
+<span class="status-pill status-preprint">Preprint</span> [DOI: 10.5281/zenodo.24457284](https://doi.org/10.5281/zenodo.24457284) [PDF](https://zenodo.org/records/24457284/files/prime-log-critical-scaling.pdf?download=1)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Prime-power ramps on adelic windows and the degree-five Tate correspondence](https://www.gaugefreedom.com/prime-power-ramps-on-adelic-windows-and-the-degree-five-tate-correspondence/)
+:::
+::: {.pub-authors}
+Marcelo Maciel Amaral
+:::
+::: {.pub-venue}
+Gauge Freedom Field Notes (November 23, 2026)
+:::
+::: {.pub-links}
+<span class="status-pill status-preprint">Preprint / Research Note</span> [DOI: 10.65323/gf-lab.2026.004](https://doi.org/10.65323/gf-lab.2026.004) [PDF](https://www.gaugefreedom.com/wp-content/uploads/2026/11/prime-power-ramps.pdf)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Fibonacci Cut-and-Project Interval Partitions: Geometry, Entropy, and Shell Estimates](https://zenodo.org/doi/10.5281/zenodo.24457170)
+:::
+::: {.pub-authors}
+Marcelo Amaral
+:::
+::: {.pub-venue}
+Zenodo (November 23, 2026)
+:::
+::: {.pub-links}
+<span class="status-pill status-preprint">Preprint</span> [DOI: 10.5281/zenodo.24457170](https://doi.org/10.5281/zenodo.24457170) [PDF](https://zenodo.org/records/24457170/files/fibonacci-partition-geometry-entropy.pdf?download=1)
 :::
 :::
 

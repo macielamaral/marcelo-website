@@ -13,7 +13,7 @@ Git-native **Quarto + GitHub Pages** research website for **Marcelo Maciel Amara
 | `_quarto.yml` | Global Quarto configuration, navigation, SEO/OpenGraph metadata, and render exclusions (`!private/**`) |
 | `assets/styles.scss` | Scientific journal + open research lab theme (`Source Serif 4`, `Inter`, `JetBrains Mono`) |
 | `index.qmd` | Homepage featuring **Quantum Gravity Research**, three broad research directions, current academic work, projects, and latest writing |
-| `research/` | Research overview (`/about/` alias) + 6 domain pages (Quantum Gravity, TQC, Gauge Theory, Energy-Efficient AI, Information Geometry, Foundations) |
+| `research/` | Research overview (`/about/` alias) + 7 domain pages (Quantum Gravity, TQC, Gauge Theory, Energy-Efficient AI, Information Geometry, Foundations, Riemann Hypothesis) |
 | `publications/` | Structured bibliography (`references.bib`), auto-generated views, and full HTML + Typst PDF articles (`publications/articles/`) |
 | `projects/` | Living research & open-source software records backed by `data/projects.yml` |
 | `notes/` | Technical notes, computational essays, and reusable agent template (`notes/_template.qmd`) |

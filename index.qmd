@@ -33,6 +33,7 @@ include-in-header:
             "Topological Quantum Computing",
             "Gauge Theory",
             "Quasicrystals",
+            "Riemann Hypothesis",
             "Energy-Efficient Artificial Intelligence"
           ],
           "sameAs": [
@@ -109,7 +110,7 @@ Quantum gravity has been a central theme of my research, from gauge-theoretic fo
 
 Gauge theory, spin foams, discrete geometry, and the emergence of spacetime.
 </div>
-[Quantum Gravity](research/quantum-gravity/index.qmd) · [Gauge Theory](research/gauge-theory/index.qmd) · [Foundations](research/foundations/index.qmd)
+[Quantum Gravity](research/quantum-gravity/index.qmd) · [Gauge Theory](research/gauge-theory/index.qmd) · [Foundations](research/foundations/index.qmd) · [Riemann Hypothesis](research/riemann-hypothesis/index.qmd)
 :::
 
 ::: {.lab-card}

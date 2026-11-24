@@ -1,0 +1,84 @@
+---
+title: "Riemann Hypothesis & Arithmetic Geometry"
+pagetitle: "Riemann Hypothesis Research | Marcelo Maciel Amaral"
+description: "Riemann Hypothesis research connecting prime-power ramps, Fibonacci geometry, and zeta statistics, with the independent cancellation estimate still open."
+bibliography: ../../publications/references.bib
+include-after-body:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "@id": "https://marcelomacielamaral.com/research/riemann-hypothesis/#webpage",
+      "url": "https://marcelomacielamaral.com/research/riemann-hypothesis/",
+      "name": "Riemann Hypothesis & Arithmetic Geometry",
+      "description": "Riemann Hypothesis research connecting prime-power ramps, Fibonacci geometry, and zeta statistics, with the independent cancellation estimate still open.",
+      "author": {
+        "@type": "Person",
+        "@id": "https://marcelomacielamaral.com/#person",
+        "name": "Marcelo Maciel Amaral",
+        "url": "https://marcelomacielamaral.com/bio/"
+      },
+      "about": {"@type": "Thing", "name": "Riemann Hypothesis"},
+      "inLanguage": "en"
+    }
+    </script>
+---
+
+How can aperiodic geometry help us understand the arithmetic of prime powers and the zeros of zeta and Dirichlet $L$-functions?
+
+This independent research direction brings together Fibonacci cut-and-project geometry, adelic congruence windows, and statistical descriptions of prime powers. The current results appear in three research preprints. They establish finite reconstruction results and an analytic criterion using an external theorem; an independent proof of the required cancellation remains open.
+
+## Prime-power ramps and finite reconstruction
+
+The Field Note studies the smoothed sum
+
+$$
+F_{m,h}(X)=\sum_{n\geq 1}\Lambda(n)\,h(n)\left(\frac{X}{n}-1\right)_+,
+$$
+
+where $\Lambda(p^k)=\log p$ for prime powers, $\Lambda(n)=0$ otherwise, and $t_+=\max(t,0)$. The residue-class weights are extended periodically, so $h(n)=h(n\bmod m)$.
+
+At modulus ten, imposing $\sum_{j=0}^{9}h(j)=0$ leaves nine independent weights. The first seventeen integer samples recover all ten weights subject to this constraint. Sixteen samples can miss a nonzero assignment, so the consecutive cutoff is sharp [@amaral2026primepowerramps, Theorem 2].
+
+A marked degree-five correspondence on Tate curves has a transpose of rank one on this nine-dimensional space. It annihilates the quadratic character $\chi_5$, while the Fibonacci inflation matrix recovers that character by counting invariant lines over prime fields. This comparison identifies exactly what these two constructions detect [@amaral2026primepowerramps, Propositions 3–4].
+
+## What this contributes to a Riemann Hypothesis proof
+
+Theorem 6 connects a sampled arithmetic estimate to the zeros of $\zeta(s)$ and the quadratic Dirichlet function $L(s,\chi_5)$. Its forward implication uses the external Alpöge–Claude integral window theorem.
+
+For each $0<\eta<1/2$, the condition $M_\eta$ is a fourth-moment bound on the positive part of a specified arithmetic approximation. It is tested at integer fourth powers and both endpoints of windows $[Y,Y^{3/2}]$. Such windows must exist arbitrarily far out, with a constant uniform over the chosen windows and their dyadic blocks.
+
+The published equivalence is
+
+$$
+M_\eta
+\quad\Longleftrightarrow\quad
+\left|\operatorname{Re}\rho-\frac12\right|\leq\eta
+$$
+
+for every nontrivial zero $\rho$ of either function. Requiring these bounds along a sequence $\eta\to0^+$ yields the critical-line assertion for both functions [@amaral2026primepowerramps, Theorem 6].
+
+**The open step is an independent arithmetic proof of the moment bound.** Recovering coefficients prime by prime, or checking finitely many samples, does not supply cancellation across an entire window. The three preprints do not claim such an independent Riemann Hypothesis proof.
+
+## Companion preprints
+
+### Fibonacci window geometry
+
+*Fibonacci Cut-and-Project Interval Partitions: Geometry, Entropy, and Shell Estimates* studies how changing an internal window partitions Fibonacci patches by frequency. It develops atom-count, gap, shell, entropy, and endpoint estimates that provide the geometric background for related analytic constructions [@amaral2026fibonacciwindows].
+
+[Read the Zenodo preprint](https://doi.org/10.5281/zenodo.24457170) · [PDF](https://zenodo.org/records/24457170/files/fibonacci-partition-geometry-entropy.pdf?download=1)
+
+### Zeta statistics and the correction field
+
+*Critical Scaling and the Levy Correction Field of the Zeta Gibbs Sector* studies the distribution $p_\beta(n)=n^{-\beta}/\zeta(\beta)$ for $\beta>1$. As $\beta\to1^+$, the scaled variable $(\beta-1)\log n$ approaches an exponential distribution. The paper separates this universal scaling from the correction field containing zero-sensitive terms of the classical explicit formula [@amaral2026zetagibbs].
+
+[Read the Zenodo preprint](https://doi.org/10.5281/zenodo.24457284) · [PDF](https://zenodo.org/records/24457284/files/prime-log-critical-scaling.pdf?download=1)
+
+## Papers, explanation, and reproducibility
+
+- [Prime-power ramps on adelic windows and the degree-five Tate correspondence](https://www.gaugefreedom.com/prime-power-ramps-on-adelic-windows-and-the-degree-five-tate-correspondence/) — *Gauge Freedom Field Notes*, research preprint, November 23, 2026. [DOI](https://doi.org/10.65323/gf-lab.2026.004) · [PDF](https://www.gaugefreedom.com/wp-content/uploads/2026/11/prime-power-ramps.pdf) · [Public reproducibility supplement](https://www.gaugefreedom.com/wp-content/uploads/2026/11/prime-power-ramps-supplement.zip).
+- [The Riemann Hypothesis, Fibonacci Geometry, and a Seventeenth Sample](../../2026/11/23/riemann-hypothesis-fibonacci-prime-power-ramps/index.qmd) — an introduction to the three preprints and the remaining cancellation question.
+- [Publications and BibTeX](../../publications/index.qmd) — all three records are classified as preprints or research notes.
+
+## References

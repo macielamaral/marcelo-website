@@ -36,6 +36,8 @@ Within this construction, the paper identifies exact Temperley–Lieb braiding c
 
 ## Living Projects & Open-Source Code
 
+Related work on Fibonacci cut-and-project windows develops patch-frequency and entropy estimates [@amaral2026fibonacciwindows]. Its connections to prime-power sums are described in the [Riemann Hypothesis research direction](../riemann-hypothesis/index.qmd).
+
 - **[Quasicrystal Inflation Code (QIC)](../../projects/quasicrystal-inflation-code.qmd)** — Full theoretical formulation (`arXiv:2506.21643`), [detailed research article](../../publications/articles/fibonacci-quasicrystal-inflation-code/index.qmd), and MIT-licensed Python package (`quasicrystal-inflation-code`).
 - **[GaugeBench](../../projects/gaugebench.qmd)** — Verifiable quantum benchmarking wrapping gate-based (QIC) and annealing engines with Content-Addressable Receipts (`gaugebench`).
 

@@ -23,6 +23,7 @@ CATEGORY_ORDER = [
     "Genetic Code and Quantum Information",
     "Information Geometry",
     "Artificial Intelligence",
+    "Riemann Hypothesis and Arithmetic Geometry",
     "Philosophy, Theology, and Foundations of Physics",
 ]
 

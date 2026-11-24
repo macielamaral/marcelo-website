@@ -1,4 +1,66 @@
 publications:
+  - id: amaral2026primepowerramps
+    title: "Prime-power ramps on adelic windows and the degree-five Tate correspondence"
+    authors: ["Marcelo Maciel Amaral"]
+    year: 2026
+    date: "2026-11-23"
+    venue: "Gauge Freedom Field Notes"
+    type: research-note
+    status: preprint
+    category: "Riemann Hypothesis and Arithmetic Geometry"
+    featured: false
+    doi: "10.65323/gf-lab.2026.004"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://www.gaugefreedom.com/prime-power-ramps-on-adelic-windows-and-the-degree-five-tate-correspondence/"
+    pdf_url: "https://www.gaugefreedom.com/wp-content/uploads/2026/11/prime-power-ramps.pdf"
+    repo_url: null
+    project: "riemann-hypothesis"
+    keywords: ["Riemann Hypothesis", "prime-power ramps", "adelic windows", "Tate correspondence", "Fibonacci inflation", "Dirichlet L-functions"]
+    abstract: "Proves sharp finite recovery of degree-zero weights modulo ten from seventeen prime-power ramp samples, compares this with a rank-one marked Tate transpose, and recovers the conductor-five character from Fibonacci invariant lines. Using an external integral window theorem, establishes a sampled fourth-moment criterion for critical-line zeros of zeta and the conductor-five quadratic L-function; an independent cancellation estimate remains open."
+
+  - id: amaral2026fibonacciwindows
+    title: "Fibonacci Cut-and-Project Interval Partitions: Geometry, Entropy, and Shell Estimates"
+    authors: ["Marcelo Amaral"]
+    year: 2026
+    date: "2026-11-23"
+    venue: "Zenodo"
+    type: preprint
+    status: preprint
+    category: "Riemann Hypothesis and Arithmetic Geometry"
+    additional_categories: ["Emergence Theory and Quasicrystalline Codes"]
+    featured: false
+    doi: "10.5281/zenodo.24457170"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://zenodo.org/doi/10.5281/zenodo.24457170"
+    pdf_url: "https://zenodo.org/records/24457170/files/fibonacci-partition-geometry-entropy.pdf?download=1"
+    repo_url: null
+    project: "riemann-hypothesis"
+    keywords: ["Fibonacci cut-and-project sets", "aperiodic order", "patch frequencies", "Shannon entropy", "shell estimates"]
+    abstract: "Studies patch-frequency interval partitions for Fibonacci cut-and-project sets with varying window length. Establishes atom-count, gap, shell, entropy-comparison, and endpoint estimates, providing geometric background for related analytic constructions."
+
+  - id: amaral2026zetagibbs
+    title: "Critical Scaling and the Levy Correction Field of the Zeta Gibbs Sector"
+    authors: ["Marcelo Amaral"]
+    year: 2026
+    date: "2026-11-23"
+    venue: "Zenodo"
+    type: preprint
+    status: preprint
+    category: "Riemann Hypothesis and Arithmetic Geometry"
+    additional_categories: ["Information Geometry"]
+    featured: false
+    doi: "10.5281/zenodo.24457284"
+    arxiv: null
+    zenodo_doi: null
+    url: "https://zenodo.org/doi/10.5281/zenodo.24457284"
+    pdf_url: "https://zenodo.org/records/24457284/files/prime-log-critical-scaling.pdf?download=1"
+    repo_url: null
+    project: "riemann-hypothesis"
+    keywords: ["Riemann zeta function", "Gibbs distributions", "critical scaling", "Levy measure", "prime powers", "explicit formula"]
+    abstract: "Studies the zeta Gibbs distribution near beta = 1, separating universal exponential and Gamma-subordinator scaling from a correction field containing classical zero-sensitive explicit-formula terms. These coordinate descriptions do not independently establish a critical-line theorem."
+
   - id: amaral2026cartan
     title: "Physical selection of Cartan soft breakings in a broken SU(3) Yang–Mills model"
     authors: ["M. M. Amaral", "V. E. R. Lemes"]
